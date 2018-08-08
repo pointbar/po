@@ -21,3 +21,6 @@ Réunions SCRUM :
 - Tous les jours : réunion quotidienne de 10m-15m
 
 Avant ça, on fait un prélude ou sprint 0 durant lequel on affine le projet et on installe l'environement 
+
+Réunion d'affinage, très similaire de la réunion de planification. Conversation sur les US. Voir SCRUM guide.
+
