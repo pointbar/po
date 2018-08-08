@@ -26,11 +26,14 @@ Réunion d'affinage, très similaire de la réunion de planification. Conversati
 
 Peu à peu, nous verrons les outils qui aide à construire un bon backlog.
 
-# runing lean vs lean startup
+# Digression runing lean vs lean startup
 
 lean startup, la philosophie. Eric Ryhe.
 
 Running lean, l'outil pour mettre en place lean startup. Actionable. 
 
+# Les érreurs du backlog
 
+- Trop détailler le backlog. Y passer trop de temps. S'assimile au micro-management :-(
+- Utiliser Jira ou d'autres plateformes. 
 
