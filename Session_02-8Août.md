@@ -1,16 +1,16 @@
-Naissance d'une User Story
+# Naissance d'une User Story
 
 L'idée est mise en bac à culture
 
-L'idée est précisé par la recherche et les entretients avec les personnes impliquées
+L'idée est précisée par la recherche et les entretients avec les personnes impliquées
 
 Elle commence à devenir une US
 
-Elle est priorisé (MOSCOW)
+Elle est priorisée (MOSCOW)
 
 Les discussion d'affinage vont servir à préciser les US, comprendre les détails, (1h-1h30) 
 
-Réunions SCRUM :
+# Réunions SCRUM :
 
 - Lundi matin : réunion de planification de sprint 2h30 3h
 
@@ -23,4 +23,14 @@ Réunions SCRUM :
 Avant ça, on fait un prélude ou sprint 0 durant lequel on affine le projet et on installe l'environement 
 
 Réunion d'affinage, très similaire de la réunion de planification. Conversation sur les US. Voir SCRUM guide.
+
+Peu à peu, nous verrons les outils qui aide à construire un bon backlog.
+
+# runing lean vs lean startup
+
+lean startup, la philosophie. Eric Ryhe.
+
+Running lean, l'outil pour mettre en place lean startup. Actionable. 
+
+
 
