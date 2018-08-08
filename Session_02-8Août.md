@@ -18,4 +18,6 @@ Réunions SCRUM :
 
 - Vendredi : revue (explication du sprint passé et des sprints suivants + démo) 1h-1h30 + rétrospective 1h30
 
+- Tous les jours : réunion quotidienne de 10m-15m
+
 Avant ça, on fait un prélude ou sprint 0 durant lequel on affine le projet et on installe l'environement 
