@@ -13,11 +13,9 @@
 - Vendredi : revue (explication du sprint passé et des sprints suivants + démo) 1h-1h30 + rétrospective 1h30
 - Tous les jours : réunion quotidienne de 10m-15m
 
-Avant ça, on fait un prélude ou sprint 0 durant lequel on affine le projet et on installe l'environement 
-
-Réunion d'affinage, très similaire de la réunion de planification. Conversation sur les US. Voir SCRUM guide.
-
-Peu à peu, nous verrons les outils qui aide à construire un bon backlog.
+Avant ça, on fait un prélude ou sprint 0 durant lequel on affine le projet et on installe l'environement.  
+Réunion d'affinage, très similaire de la réunion de planification. Conversation sur les US. Voir SCRUM guide.  
+Peu à peu, nous verrons les outils qui aide à construire un bon backlog.  
 
 # Digression runing lean vs lean startup
 
@@ -27,5 +25,9 @@ Running lean, l'outil pour mettre en place lean startup. Actionable.
 # Les érreurs du backlog
 
 - Trop détailler le backlog. Y passer trop de temps. S'assimile au micro-management :-(
-- Utiliser Jira ou d'autres plateformes. 
+- Utiliser Jira ou d'autres plateformes sophistiqué.
+- US pas vraiment stories, pas assez discutée qui manque de conversations.
+- A l'intérieur du backlog, plus d'information qu'il ne doit y en avoir, des taches par exemple.
+- Pas assez entretenu. Il faut toujours affiner le backlog, l'entretenir, le re-prioriser.
+- Mal prioriser. 
 
