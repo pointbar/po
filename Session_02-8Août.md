@@ -12,5 +12,5 @@ Lundi matin : réunion de planification de sprint 2h30 3h
 
 2 Mercredi matins : réunion d'affinage pour le prochain sprint 1h-1h30
 
-Vendredi : rétrospective 1h30 + revue (explication du sprint passé et des sprints suivants + démo) 1h-1h30 
+Vendredi : revue (explication du sprint passé et des sprints suivants + démo) 1h-1h30 + rétrospective 1h30
 
