@@ -10,7 +10,7 @@ Elle est priorisé (MOSCOW)
 
 Les discussion d'affinage vont servir à préciser les US, comprendre les détails, (1h-1h30) 
 
-Réunions SCRUM
+Réunions SCRUM :
 
 - Lundi matin : réunion de planification de sprint 2h30 3h
 
