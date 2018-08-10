@@ -1,8 +1,15 @@
 # Intro  
+<<<<<<< HEAD
 - C’est pour éviter Le manque d’unité dans le contenu d’un produit que le Product Owner existe dans Scrum. Sa raison d’être est de faire en sorte que le travail fait apporte de la valeur. Il est responsable du succès du produit en définissant les priorités pour son développement.
 
 - Le Product Owner permet d'aviter la prédominance de la *technique* dans un développement de produit. **Il est le seul** à avoir la responsablilité de guider l'équipe vers *Le bon produit à réaliser*, et ce afin d'éviter les conflits d'intérêt.  
 - Le Product Owner donne bien la direction, mais **il n’a pas de responsabilité hiérarchique sur des personnes**. 
+=======
+- C’est pour éviter le manque d’unité dans le contenu d’un produit que le Product Owner existe dans Scrum. Sa raison d’être est de faire en sorte que le travail fait apporte de la valeur. Il est responsable du succès du produit en définissant les priorités pour son développement.
+
+- Le Product Owner permet d'eviter la prédominance de la *technique* dans un développement de produit. **Il est le seul** à avoir la responsablilité de guider l'équipe vers *Le bon produit à réaliser*, et ce afin d'éviter les conflits d'intérêt.  
+- Le Product Owner donne bien la direction, mais il n’a **pas de responsabilité hiérarchique sur des personnes**. 
+>>>>>>> d00accb4d3f0bee88a06d49cdc418c9d0c7e9480
 - définition du rôle de PO:  
 "Le Product Owner est la personne de l’équipe, et la seule, qui soit imputable du résultat auprès des parties prenantes." 
 - Il convient de considérer le mot produit dans une acceptation large, comme le résultat de ce qui est fait par l’équipe. **le Product Owner est responsable du résultat**.
@@ -52,7 +59,9 @@ Dans une configuration de développelement de priduit pour un client externe, le
 - Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
 
 ## Maitrise des techniques de définition de produit 
+- blababla (j'essaye des push)-
 - 
+- ihfohohvozheohv
 ## Autorité pour pendre des décisions rapidement 
 ## Capacité à détailler au bon moment 
 ## Esprit ouvert au changement 
