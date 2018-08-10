@@ -50,3 +50,5 @@ Avoir des compétances variées est une bonne chose.
 ## Capacité à détailler au bon moment 
 ## Esprit ouvert au changement 
 ## Aptitude à la négiciation  
+
+=> ajouter des points à l'intérieur des sous titres. 
