@@ -45,10 +45,16 @@ Tous les membres de l’équipe et toutes les parties prenantes du projet devrai
 Avoir des compétances variées est une bonne chose. 
 
 ## Bonne connaissance du métier 
+- Le PO tire avantage des ses connaissances en relation avec l'utilisation du produit, ainsi que ses utilisateurs. Puisque Le PO représente, devant l'équipe de développement, l'ensemble de ces utilisateurs.
+
+- Dans une configuration de développement de produit à usage interne, le PO peut parfois venir du groupe des utilisateurs.  
+Dans une configuration de développelement de priduit pour un client externe, le PO vient souvent des équipe Marketing ou produit. 
+- Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
+
 ## Maitrise des techniques de définition de produit 
+- 
 ## Autorité pour pendre des décisions rapidement 
 ## Capacité à détailler au bon moment 
 ## Esprit ouvert au changement 
 ## Aptitude à la négiciation  
 
-=> ajouter des points à l'intérieur des sous titres. 
