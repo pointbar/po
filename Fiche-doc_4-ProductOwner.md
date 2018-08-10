@@ -1,8 +1,8 @@
 # Intro  
-- C’est pour éviter ce manque d’unité dans le contenu d’un produit que le Product Owner existe dans Scrum. Sa raison d’être est de faire en sorte que le travail fait apporte de la valeur. Il est responsable du succès du produit en définissant les priorités pour son développement.
+- C’est pour éviter Le manque d’unité dans le contenu d’un produit que le Product Owner existe dans Scrum. Sa raison d’être est de faire en sorte que le travail fait apporte de la valeur. Il est responsable du succès du produit en définissant les priorités pour son développement.
 
 - Le Product Owner permet d'aviter la prédominance de la *technique* dans un développement de produit. **Il est le seul** à avoir la responsablilité de guider l'équipe vers *Le bon produit à réaliser*, et ce afin d'éviter les conflits d'intérêt.  
-- Le Product Owner donne bien la direction, mais il n’a pas de responsabilité hiérarchique sur des personnes. 
+- Le Product Owner donne bien la direction, mais **il n’a pas de responsabilité hiérarchique sur des personnes**. 
 - définition du rôle de PO:  
 "Le Product Owner est la personne de l’équipe, et la seule, qui soit imputable du résultat auprès des parties prenantes." 
 - Il convient de considérer le mot produit dans une acceptation large, comme le résultat de ce qui est fait par l’équipe. **le Product Owner est responsable du résultat**.
