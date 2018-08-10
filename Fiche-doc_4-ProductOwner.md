@@ -51,10 +51,8 @@ Avoir des compétances variées est une bonne chose.
 Dans une configuration de développelement de priduit pour un client externe, le PO vient souvent des équipe Marketing ou produit. 
 - Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
 
-## Maitrise des techniques de définition de produit 
-- blababla (j'essaye des push)-
-- 
-- ihfohohvozheohv
+## Maitrise des techniques de définition de produit
+
 ## Autorité pour pendre des décisions rapidement 
 ## Capacité à détailler au bon moment 
 ## Esprit ouvert au changement 
