@@ -10,32 +10,29 @@
 # Activités du Product Owner
 - Il agit à la fois sur la **stratégie** et la **tactique**.  
 
-- Les choix **stratégiques** sont habituellement du ressort du *chef de projet* ou du *commité de pilotage*.  
+- Les choix **stratégiques** => *chef de projet* ou du *commité de pilotage*.  
 ex: date de livraison du produit et de son contenu. 
-- Les choix **Tactiques** sont habituellement prises par une équipe de développement.  
+- Les choix **Tactiques** => équipe de développement.  
 ex: Priorisation du backlog? 
 - Le PO doit fréquemment prendre des décisions **tactiques**, d'où l'importance de sa présence dans l'équipe.  
 -  **Même si le Product Owner a des responsabilités, il ne faut pas le considérer comme quelqu’un qui impose ses choix de façon autoritaire ; beaucoup de travaux qu’il mène se font en équipe et ses décisions sont prises, chaque fois que c’est important, en accord avec elle.**  
 
 ## Faire partager la vision  
-- cf: chapitre *"de la vision aux features"*  
-
-- La vision se construit au début du développement d’un nouveau produit et se consolide ensuite. Elle consiste typiquement à définir:
-*• pourquoi on fait le produit,  
+- La vision consiste à définir:  
+• pourquoi on fait le produit,  
 • le but de la prochaine release,  
 • les impacts attendus sur les acteurs,  
 • une liste des fonctionnalités essentielles qui y contribuent.*  
-Tous les membres de l’équipe et toutes les parties prenantes du projet devraient partager la même vision, et c’est au Product Owner de s’en assurer
+**Le PO s'assure que l'ensemble des parties prenantes partagent la même vision.** 
 
 ## Définir le Contenu du produit 
-- Le PO identifie les fonctionnalités requises, collectées auprès des parties prenantes. 
+- Le PO identifie les fonctionnalités requises, collectées auprès des parties prenantes, et les insert dans le **backlog**. 
 
-- Il insert ces fonctionnalités dans le **backlog**. 
 - le Product Owner s’occupe du **backlog** et passe une bonne partie de son temps à l’affiner, en anticipation sur les **sprints** suivants.
 - Le PO est impliqué dans les tests d'acceptation car il doit fournir les conditions qui permettent de s'assurer que ce qu'il demande est bien réalisé. 
 
 ## Planifier la vie du priduit 
-- C’est le Product Owner qui définit l’ordre dans lequel les parties du produit seront développées. Il alimente l’équipe avec les fonctionnalités à développer, selon ses priorités.
+- C’est le Product Owner qui définit l’ordre dans lequel les parties du produit seront développées. Il alimente l’équipe avec les fonctionnalités à développer,selon ses priorités.
 
 - C’est aussi lui qui définit les jalons du cycle de vie du produit (*les releases*). Il définit l'objectif d'une release, comme son contenu ou sa date de mise à disposition auprès des utilisateurs. 
 
@@ -49,7 +46,7 @@ Avoir des compétances variées est une bonne chose.
 
 - Dans une configuration de développement de produit à usage interne, le PO peut parfois venir du groupe des utilisateurs.  
 Dans une configuration de développelement de priduit pour un client externe, le PO vient souvent des équipe Marketing ou produit. 
-- Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
+- Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une, comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
 
 ## Maitrise des techniques de définition de produit
 
