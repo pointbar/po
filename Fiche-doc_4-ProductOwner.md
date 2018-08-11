@@ -49,9 +49,59 @@ Dans une configuration de développelement de priduit pour un client externe, le
 - Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une, comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
 
 ## Maitrise des techniques de définition de produit
+- Pour définir ce que fait le produit, le PO collecte les besoins et les transforme en élément de backlog.  
+=> *requirements engineering* 
+
+- L'indentification des éléments de backlog se fait par les **user stories**
+- "Il est souhaitable que le Product Owner ait la connaissance et si possible la pratique de techniques de définition de produit." 
 
 ## Autorité pour pendre des décisions rapidement 
+- Le PO doit pouvoir prendre des décision seul, sans en référer à une hiérarchie. **il doit avoir la confiance de l'ensemble des parties prenantes**
+
+- En cas de contratiction parmis les intervenants, le PO doit fédérer les points de vues en *une seule proposition*.
+
 ## Capacité à détailler au bon moment 
+- Le PO décompose au bon moment les éléments prioritaire de backlog. 
+
+- Faire preuve d'anticipation
+
 ## Esprit ouvert au changement 
-## Aptitude à la négiciation  
+- Ajuster le plan et mettre à jour le backlog en fonction des *feedback* récoltés au fil des releases est au coeur de l'approche agile du PO. 
+
+- La **Vision** du PO ne varie pas fondamentalement pendant une release.  
+=> Ne pas être une girouette non plus..
+
+
+## Aptitude à la négiciation 
+- "Le Product Owner négocie fréquemment avec l’équipe et possède la force de conviction pour justifier ses prises de position."
+
+- L'établissement des priorités dans le backlog se fait en foction de critères *définits avec l'équipe*. **La valeur** et le **risque technique** en font partie. 
+- Le PO vient au *scrum quotidien* pendant les *sprint* et reste si possible discuter avec les dévelopeurs afin d'entendre leurs propositions. 
+- **Il lui arrivera de constituer un binôme avec un développeur, pour que celui-ci lui montre, sur son environnement de développement, le fonctionnement de la story sur laquelle il travaille.** 
+
+# Choisir le Product Owner d'une équipe 
+## Une personne disponible 
+- "On estime que le travail, pour une équipe à partir de cinq personnes, nécessite une participation d’au moins trois heures par jour à disposition de l’équipe."
+
+- L'implication du PO est continue sur tout les les sprint. 
+- Plus la fin de la relase approche, plus le temps que le PO consacre au projet augmente. 
+- Les priorités sont plus difficiles à déterminer et le nombre de test augmente. 
+- Imlication du PO du un sprnt de deux semaines:   
+• réunion de planification de sprint : environ deux heures,  
+• scrums quotidiens, deux fois par semaine (c’est un minimum) :
+60 minutes pour quatre séances,  
+• meeting d’affinage : environ deux heures  
+• revue de sprint : 60 minutes,  
+• rétrospective : 60 minutes.  
+**Cela fait sept heures, soit environ 10 % de son temps**
+- En plus de participer à ces réunions, le Product Owner se doit aussi de :  
+• d’affiner seul le backlog, ajuster les priorités,  
+• répondre aux questions sur le produit,  
+• définir les conditions d’acceptation,  
+• passer les tests ou s’assurer qu’ils sont bien passés..
+
+## Une seule personne 
+- 
+
+
 
