@@ -106,7 +106,20 @@ Dans une configuration de développelement de priduit pour un client externe, le
 - Il faut parler d’une seule voix à une équipe et cette voix, c’est celle du Product Owner.
 - Il a eu des exemples dans lesquels le PO n'était pas suffisemment disponible et avait désigné un délégué. Cela pose problème, car le risque d'avoir "deux son de cloche" augmente lorsque le PO s'exprime à la suite de son délégué.  
 => mieux vaut alors désigner le PO comme étant partie prenante, et son délégué comme le véritable PO, au moins jusqu'à la fin de la *release* en cours. 
+- Ce qui définit le rôle de PO c'est de d'établir les priorités. 
+- **Le PO est une seule personne, pas un commité**
 
+## Où le trouver dans l'organisation actuelle? 
+- Le PO sera plutôt désigné au sein d'un "service" différent de l'équipe de développement.  
+ex: Chez un éditeur de logiciel, le PO fera souvent partie du service merketing ou du service priduit. Il aura plus de chance de cristaliser les compétences requises. 
+- Dans les entreprises qui ont des utilisateurs internes, on priviligiera ce groupe de personne pour y piocher un PO.  
+=> Attention au manque de disponibilité. 
+- Dans celles qui ont génréralement un *chef de projet* pour tout leus produits, on choisira cette personne là pour le sa qualité de leader. **Mais pas de chef!** 
+
+## Une personne motivée pour le rôle 
+- "Le Product Owner fraîchement nommé a parfois une culture de Scrum et de l’agilité superficielle. Il pourra recevoir des compléments de formation plus tard, mais ce qui importe lors du choix, c’est son adhésion aux valeurs et principes véhiculés par le mouvement agile."
+
+# Conseils pour progresser dans le rôle 
 
 
 
