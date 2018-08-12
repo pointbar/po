@@ -157,4 +157,16 @@ Avoir des compétances variées est une bonne chose.
 
 ### Se former au rôle de Product Owner
 
-- être accompagné dans sa mise en
+- être accompagné dans sa mise en oeuvre par un coach sous forme de binome peut être une bonne chose.
+
+### S'impliquer dans les test d'acceptation
+
+- "C’est la responsabilité du Product Owner de s’assurer que le travail réalisé par l’équipe est fini pendant le *sprint*."
+
+- "C’est en exposant ses conditions d’acceptation que le Product Owner formule à l’équipe le comportement qu’il attend d’une fonctionnalité."
+
+- Ces conditions peut être:
+    •formalisée de manière informelle => communication améliorée.
+    •Formalisée en test d'acceptation => Automatisés et passés régulièrement.
+
+uguy
