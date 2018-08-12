@@ -207,6 +207,6 @@ Avoir des compétances variées est une bonne chose.
 
 - "Le livre Exploring Scrum explique très bien le rôle de PO"
 
-## En résumé et plus
+## En résumé
 
 - "Dans une équipe Scrum qui développe un produit, le Product Owner est le responsable du résultat auprès des parties prenantes. Il apporte sa vision à l’équipe et définit les priorités de façon à obtenir un produit apportant le maximum de valeur.  L’implication d’un bon Product Owner est capitale pour assurer le succès du projet. En définissant sa vision sur le produit, il donne l’impulsion à l’équipe. En faisant la promotion du résultat de chaque sprint auprès des utilisateurs, il fournit à l’équipe une reconnaissance qui la motive. En collaborant avec l’équipe, il fait converger les énergies pour maximiser la valeur ajoutée au produit."
