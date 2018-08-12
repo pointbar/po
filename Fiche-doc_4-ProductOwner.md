@@ -101,7 +101,12 @@ Dans une configuration de développelement de priduit pour un client externe, le
 • passer les tests ou s’assurer qu’ils sont bien passés..
 
 ## Une seule personne 
-- 
+- Le PO est le seul décideur face à l'équipe, de ce que doit faire le produit. 
+
+- Il faut parler d’une seule voix à une équipe et cette voix, c’est celle du Product Owner.
+- Il a eu des exemples dans lesquels le PO n'était pas suffisemment disponible et avait désigné un délégué. Cela pose problème, car le risque d'avoir "deux son de cloche" augmente lorsque le PO s'exprime à la suite de son délégué.  
+=> mieux vaut alors désigner le PO comme étant partie prenante, et son délégué comme le véritable PO, au moins jusqu'à la fin de la *release* en cours. 
+
 
 
 
