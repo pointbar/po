@@ -169,4 +169,44 @@ Avoir des compétances variées est une bonne chose.
     •formalisée de manière informelle => communication améliorée.
     •Formalisée en test d'acceptation => Automatisés et passés régulièrement.
 
--
+- Cette dernière approche s'appelle **spécification par l'example**
+
+### Collaborer avec l'équip
+
+- Le PO n'est pas uniquement représentant des des utilisateur auprès de l'équipe, **il fait partie de l'équipe**. Il paticipe au travaux pendant *le sprint*.
+
+- Dans l'idéal, le PO s'instale dans le même aspace de travail que l'équipe de développement.
+
+- Dans les cas où sa présence physique n'est pas possible, les outils de travail collaboratis sont de bonnes alternatives.
+
+### Utiliser le produit
+
+- "Un bon Product Owner aime son produit. S’il l’utilise tous les jours, il y a des chances qu’il soit incité à en faire un bon produit. Il sera plus à même de discerner la valeur ajoutée par les fonctions dans le backlog. Bien connaître son produit lui donnera une position respectée par tous et facilitera ses prises de décision."
+
+- "C’est aussi dans sa mission de faire des démonstrations à l’extérieur et de présenter le produit aux utilisateurs. Il en profitera pour valider les hypothèses sur les nouveautés qu’il envisage d’inclure dans le produit."
+
+### Impliquer les parties prenantes
+
+- Le PO invite les parties prenantes à la revue de chaque fin de sprint (Utilisateurs, sponsor etc...). Il doit vraiment les inciter à y venir car cette revue est un moment d’inspection collectif de l’état du produit.
+
+### Planifier à moyen terme
+
+- "Une des pratiques de Scrum les plus mal utilisées, d’après mon expérience, est la production d’un plan de release. C’est pourtant un moyen de donner une direction à l’équipe et de la communiquer aux parties prenantes. Le Product Owner est moteur dans cette quête d’avoir un horizon qui va au-delà du *sprint* courant."
+
+### S’intéresser aux nouveaux outils
+
+- "Impact mapping, story mapping, innovation games, ces outils permettent au PO de dépasser Scrum."
+
+## Par quoi démarrer
+
+### Se mettre d’accord sur les droits et devoirs du PO
+
+- "Une fois le PO choisi, il collabore avec le reste de l’équipe pour définir la façon dont ils vont travailler ensemble."
+
+### Une bonne lecture
+
+- "Le livre Exploring Scrum explique très bien le rôle de PO"
+
+## En résumé
+
+- "Dans une équipe Scrum qui développe un produit, le Product Owner est le responsable du résultat auprès des parties prenantes. Il apporte sa vision à l’équipe et définit les priorités de façon à obtenir un produit apportant le maximum de valeur.  L’implication d’un bon Product Owner est capitale pour assurer le succès du projet. En définissant sa vision sur le produit, il donne l’impulsion à l’équipe. En faisant la promotion du résultat de chaque sprint auprès des utilisateurs, il fournit à l’équipe une reconnaissance qui la motive. En collaborant avec l’équipe, il fait converger les énergies pour maximiser la valeur ajoutée au produit."
