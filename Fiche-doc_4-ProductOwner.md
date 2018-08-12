@@ -169,4 +169,4 @@ Avoir des compétances variées est une bonne chose.
     •formalisée de manière informelle => communication améliorée.
     •Formalisée en test d'acceptation => Automatisés et passés régulièrement.
 
-uguy
+-
