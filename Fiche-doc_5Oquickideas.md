@@ -46,4 +46,20 @@ En ajoutant à l'US quelquechose comme " Alors qu'aujourd'hui nous ... " ou " L�
 
 Essayer d'utiliser un verbe qui décrit une nouvelles action ou un comportement nouveau.  
 
-### Approcher les US comme des epériences 
+### Approcher les US comme des epériences qui se suffisent à elles même
+
+Pour éviter de créer des US trop petites qui n'ont pas assez de valeur. 
+
+Pour ne pas impliquer le reste du projet en cas d'échec.
+
+Pour conserver l'implication des parties prenantes
+
+### Eviter le générique
+
+Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter avec un compte utilisateur de n'importe quel réseaux social pour ne pas avoir besoin de me rappeler d'autres identifiant et mot de passe".
+
+"L'utilisateur" est quelque chose qu'on doit éviter à tout prix. Ca empèche de d'orienter la conversation vers le réel utilisateur.
+
+En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile.
+
+Chappitre suivant
