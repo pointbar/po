@@ -23,7 +23,9 @@ Dans INVEST, les idées qu'une US doit être d'une part Indépendante et avoir d
 
 La conséquence est souvent de favoriser la petite taille de la US au détriment de la valeur.
 
-        J'ai besoin de précisions ou d'exemples pour m'aider à capter en quoi il est dificile de concilier "small" et "independent / value"
+        J'ai besoin de précisions ou d'exemples pour 
+        m'aider à capter en quoi il est dificile de 
+        concilier "small" et "independent / value"
 
 Pour contourner ce problème, on invite à se concentrer sur la description du changement dans le comportement de l'utilisateur qui est attendus comme résultat de la US.  
 
@@ -36,7 +38,15 @@ Répondre à ces questions va permettre de proposer la solution la plus simple p
 
 Comment les règles ou le fonctionnement va changer ? 
 
-        Y a-t-il une methode de description de la US? Cette description doit-elle faire partie du "titre"? Ou bien doit elle être intégrée d'une façon ou d'une autre à la storie? Cette dernière hypothèse ne semble pas coller avec l'idée de "small". Cependant, est-ce que la US "Etre capable d'importer plus de contacts plus vite" décrit le changement provoqué dans le système?
+        Y a-t-il une methode de description de la US? 
+        Cette description doit-elle faire partie du 
+        "titre"? Ou bien doit elle être intégrée d'une
+         façon ou d'une autre à la storie? Cette 
+         dernière hypothèse ne semble pas coller avec 
+         l'idée de "small". Cependant, est-ce que la US
+          "Etre capable d'importer plus de contacts 
+          plus vite" décrit le changement provoqué dans 
+          le système?
 
 #### Bénéfices
 
@@ -44,7 +54,14 @@ Cela provoque une discussion sur ce qui existe déjà et comment on espère le m
 
 Pour que tous le monde comprenne les implications liées à l'embarquement d'une US. Pour comprendre l'ampleur et la complexité du travail.
 
-        Est-ce que les réunions d'affinages sont là pour ça? Formuler de la façon la plus idéale possible la storie peut-il être considérer comme un affinage? Si j'ai bien compris les réunions d'affinage sont là pour "découper" les stories, et donc pour justement comprendre l'ampleur et la complexité du travail. Est-ce valable de voir la chose de cette façon?
+        Est-ce que les réunions d'affinages sont là
+        pour ça? Formuler de la façon la plus idéale 
+        possible la storie peut-il être considérer 
+        comme un affinage? Si j'ai bien compris les 
+        réunions d'affinage sont là pour "découper" les 
+        stories, et donc pour justement comprendre 
+        l'ampleur et la complexité du travail. Est-ce 
+        valable de voir la chose de cette façon?
 
 #### Comment ça marche
 
