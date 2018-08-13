@@ -41,12 +41,12 @@ Comment les règles ou le fonctionnement va changer ?
         Y a-t-il une methode de description de la US? 
         Cette description doit-elle faire partie du 
         "titre"? Ou bien doit elle être intégrée d'une
-         façon ou d'une autre à la storie? Cette 
-         dernière hypothèse ne semble pas coller avec 
-         l'idée de "small". Cependant, est-ce que la US
-          "Etre capable d'importer plus de contacts 
-          plus vite" décrit le changement provoqué dans 
-          le système?
+        façon ou d'une autre à la storie? Cette 
+        dernière hypothèse ne semble pas coller avec 
+        l'idée de "small". Cependant, est-ce que la US
+        "Etre capable d'importer plus de contacts 
+        plus vite" décrit le changement provoqué dans 
+        le système?
 
 #### Bénéfices
 
@@ -69,13 +69,20 @@ En ajoutant à l'US quelquechose comme " Alors qu'aujourd'hui nous ... " ou " L�
 
 Essayer d'utiliser un verbe qui décrit une nouvelles action ou un comportement nouveau.  
 
+        Un peu la même question que plus haut. Ces 
+        formules devraient-elles être incorporées au 
+        titre de la storie?
+
 ### Approcher les US comme des epériences qui se suffisent à elles même
 
-Pour éviter de créer des US trop petites qui n'ont pas assez de valeur. 
+Pour éviter de créer des US trop petites qui n'ont pas assez de valeur.
 
 Pour ne pas impliquer le reste du projet en cas d'échec.
 
 Pour conserver l'implication des parties prenantes
+
+        Avoir un exemple serait cool, mais ça n'est 
+        peut être pas dans le livre.
 
 ### Eviter le générique
 
@@ -84,5 +91,14 @@ Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter ave
 "L'utilisateur" est quelque chose qu'on doit éviter à tout prix. Ca empèche de d'orienter la conversation vers le réel utilisateur.
 
 En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile.
+
+        Faudrait-il alors préciser le type 
+        d'utilisateur? Dire par ecemple "Si ma 
+        grand-mêre se connecte à facebook, elle veut 
+        pouvoir avoir des nouvelles de ses petits 
+        enfants dans son fil d'actualité", plutôt que 
+        "En tant qu'utilisateur, je veux que mon fil 
+        d'actu se remplisse en fonction de 
+        "l'importance" de mes contactes facebook"?
 
 Chappitre suivant
