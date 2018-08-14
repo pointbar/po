@@ -1,8 +1,8 @@
 # Questions pour Stephane
 
-- Comment cloner un dépot github depuis VS ?
+- Comment cloner un dépot github depuis VS ? On est passé par GHDesktop pour contourner le soucis. 
 
-- Comment créeer un fichier en local et le push sur le dépot ?
+- Comment créeer un fichier en local et le push sur le dépot ? On a galéré avec VS.
 
 - comment se log dans VS pour avoir les autorisations sur le dépot ?
 
@@ -10,5 +10,5 @@
 
 - J'aimerai que tu me montres à nouveau comment insérer une immage dans un ficher .md
 
-- En mergeant deux branches, GitHub a déplacé du contenu tout en bas du doc. Comment éviter ça dans des codes plus complexe.
+- En mergeant deux branches, GitHub a déplacé du contenu tout en bas du doc. Comment éviter ça dans des codes plus complexe ?
 
