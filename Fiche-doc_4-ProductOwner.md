@@ -78,6 +78,8 @@ Avoir des compétances variées est une bonne chose.
 
 - En cas de contratiction parmis les intervenants, le PO doit fédérer les points de vues en *une seule proposition*.
 
+        Qui sont "les intervanants ?" S'agit-il des parties prenantes, de l'équipe de dévellopement ou des deux ?
+
 ### Capacité à détailler au bon moment
 
 - Le PO décompose au bon moment les éléments prioritaire de backlog.
@@ -108,9 +110,7 @@ Avoir des compétances variées est une bonne chose.
 
 - L'implication du PO est continue sur tout les les sprint.
 
-- Plus la fin de la relase approche, plus le temps que le PO consacre au projet augmente.
-
-- Les priorités sont plus difficiles à déterminer et le nombre de test augmente.
+- Plus la fin de la relase approche, plus le temps que le PO consacre au projet augmente. Les priorités sont plus difficiles à déterminer et le nombre de test augmente.
 
 - Imlication du PO du un sprnt de deux semaines:
 
@@ -165,15 +165,15 @@ Avoir des compétances variées est une bonne chose.
 
 - "C’est en exposant ses conditions d’acceptation que le Product Owner formule à l’équipe le comportement qu’il attend d’une fonctionnalité."
 
-- Ces conditions peut être:
-    •formalisée de manière informelle => communication améliorée.
-    •Formalisée en test d'acceptation => Automatisés et passés régulièrement.
+- Ces conditions peuvent être: 
 
-- Cette dernière approche s'appelle **spécification par l'example**
+    •formalisées de manière informelle => communication améliorée,  
 
-### Collaborer avec l'équip
+    •formalisées en test d'acceptation => Automatisés et passés régulièrement. Cette dernière approche s'appelle **spécification par l'exemple**
 
-- Le PO n'est pas uniquement représentant des des utilisateur auprès de l'équipe, **il fait partie de l'équipe**. Il paticipe au travaux pendant *le sprint*.
+### Collaborer avec l'équipe
+
+- Le PO n'est pas uniquement représentant des utilisateur auprès de l'équipe, **il fait partie de l'équipe**. Il paticipe au travaux pendant *le sprint*.
 
 - Dans l'idéal, le PO s'instale dans le même aspace de travail que l'équipe de développement.
 
