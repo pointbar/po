@@ -23,6 +23,10 @@ Dans INVEST, les idées qu'une US doit être d'une part Indépendante et avoir d
 
 La conséquence est souvent de favoriser la petite taille de la US au détriment de la valeur.
 
+        J'ai besoin de précisions ou d'exemples pour 
+        m'aider à capter en quoi il est dificile de 
+        concilier "small" et "independent / value"
+
 Pour contourner ce problème, on invite à se concentrer sur la description du changement dans le comportement de l'utilisateur qui est attendus comme résultat de la US.  
 
 Par exemple au lieux de d'écrire "Etre capable d'importer des contacts",  on préfère écrire "Etre capable d'importer plus de contacts plus vite".
@@ -34,17 +38,40 @@ Répondre à ces questions va permettre de proposer la solution la plus simple p
 
 Comment les règles ou le fonctionnement va changer ?
 
+        Y a-t-il une methode de description de la US? 
+        Cette description doit-elle faire partie du 
+        "titre"? Ou bien doit elle être intégrée d'une
+        façon ou d'une autre à la storie? Cette 
+        dernière hypothèse ne semble pas coller avec 
+        l'idée de "small". Cependant, est-ce que la US
+        "Etre capable d'importer plus de contacts 
+        plus vite" décrit le changement provoqué dans 
+        le système?
+
 #### Bénéfices
 
 Cela provoque une discussion sur ce qui existe déjà et comment on espère le modifier.
 
 Pour que tous le monde comprenne les implications liées à l'embarquement d'une US. Pour comprendre l'ampleur et la complexité du travail.
 
+        Est-ce que les réunions d'affinages sont là
+        pour ça? Formuler de la façon la plus idéale 
+        possible la storie peut-il être considérer 
+        comme un affinage? Si j'ai bien compris les 
+        réunions d'affinage sont là pour "découper" les 
+        stories, et donc pour justement comprendre 
+        l'ampleur et la complexité du travail. Est-ce 
+        valable de voir la chose de cette façon?
+
 #### Comment ça marche
 
 En ajoutant à l'US quelquechose comme " Alors qu'aujourd'hui nous ... " ou " Là où nous faisons ...", "A la place de ...".  
 
 Essayer d'utiliser un verbe qui décrit une nouvelles action ou un comportement nouveau.  
+
+        Un peu la même question que plus haut. Ces 
+        formules devraient-elles être incorporées au 
+        titre de la storie?
 
 ### Approcher les US comme des epériences qui se suffisent à elles même
 
@@ -53,6 +80,9 @@ Pour éviter de créer des US trop petites qui n'ont pas assez de valeur.
 Pour ne pas impliquer le reste du projet en cas d'échec.
 
 Pour conserver l'implication des parties prenantes
+
+        Avoir un exemple serait cool, mais ça n'est 
+        peut être pas dans le livre.
 
 ### Eviter le générique
 
@@ -151,3 +181,13 @@ Impact Mapping, Gojko
 
 Lire : User Storry Mapping, Jeff Patton
 
+        Faudrait-il alors préciser le type 
+        d'utilisateur? Dire par ecemple "Si ma 
+        grand-mêre se connecte à facebook, elle veut 
+        pouvoir avoir des nouvelles de ses petits 
+        enfants dans son fil d'actualité", plutôt que 
+        "En tant qu'utilisateur, je veux que mon fil 
+        d'actu se remplisse en fonction de 
+        "l'importance" de mes contactes facebook"?
+
+Chappitre suivant
