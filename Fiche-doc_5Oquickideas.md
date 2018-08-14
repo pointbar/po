@@ -92,6 +92,15 @@ Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter ave
 
 En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile. Nous avons besoin de cibler.
 
+        Faudrait-il alors préciser le type 
+        d'utilisateur? Dire par ecemple "Si ma 
+        grand-mêre se connecte à facebook, elle veut 
+        pouvoir avoir des nouvelles de ses petits 
+        enfants dans son fil d'actualité", plutôt que 
+        "En tant qu'utilisateur, je veux que mon fil 
+        d'actu se remplisse en fonction de 
+        "l'importance" de mes contactes facebook"?
+
 ### Comment ça marche
 
 Il faut identifier les utilisateur à qui s'adresse réellement le produit.
@@ -180,14 +189,5 @@ Impact Mapping, Gojko
 ### Créer une US map
 
 Lire : User Storry Mapping, Jeff Patton
-
-        Faudrait-il alors préciser le type 
-        d'utilisateur? Dire par ecemple "Si ma 
-        grand-mêre se connecte à facebook, elle veut 
-        pouvoir avoir des nouvelles de ses petits 
-        enfants dans son fil d'actualité", plutôt que 
-        "En tant qu'utilisateur, je veux que mon fil 
-        d'actu se remplisse en fonction de 
-        "l'importance" de mes contactes facebook"?
 
 Chappitre suivant
