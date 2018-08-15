@@ -1,7 +1,7 @@
 ---
-titre : Synthèse du Quatrième chappitre de SCRUM de Claude Aubry
+titre : Synthèse chappitre sur le product owner dans SCRUM de Claude Aubry
 description: Synthèse du Quatrième chappitre de SCRUM de Claude Aubry
-image_url: github.com/pointbar.po
+image_url: github.com/pointbar.po/SCRUM_cover.png
 ---
 
 # Synthèse doc PO
