@@ -56,7 +56,7 @@ Pour que tous le monde comprenne les implications liées à l'embarquement d'une
 
         Est-ce que les réunions d'affinages sont là
         pour ça? Formuler de la façon la plus idéale 
-        possible la storie peut-il être considérer 
+        possible la story peut-il être considérer 
         comme un affinage? Si j'ai bien compris les 
         réunions d'affinage sont là pour "découper" les 
         stories, et donc pour justement comprendre 
@@ -71,7 +71,7 @@ Essayer d'utiliser un verbe qui décrit une nouvelles action ou un comportement 
 
         Un peu la même question que plus haut. Ces 
         formules devraient-elles être incorporées au 
-        titre de la storie?
+        titre de la story?
 
 ### Approcher les US comme des epériences qui se suffisent à elles même
 
@@ -90,16 +90,9 @@ Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter ave
 
 "L'utilisateur" est quelque chose qu'on doit éviter à tout prix. Une catégorie aussi générique empèche d'orienter la conversation vers le réel utilisateur.
 
-En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile. Nous avons besoin de cibler.
+Essayer l'identifier des segments d'utilisateurs afin d'orienter la réflexion sur la valeur des stories sur des cas réelement concrets.
 
-        Faudrait-il alors préciser le type 
-        d'utilisateur? Dire par ecemple "Si ma 
-        grand-mêre se connecte à facebook, elle veut 
-        pouvoir avoir des nouvelles de ses petits 
-        enfants dans son fil d'actualité", plutôt que 
-        "En tant qu'utilisateur, je veux que mon fil 
-        d'actu se remplisse en fonction de 
-        "l'importance" de mes contactes facebook"?
+En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile. Nous avons besoin de cibler.
 
 ### Comment ça marche
 
@@ -115,14 +108,15 @@ On peut ajouter confronter ces personae à la check list de Stephen Wendel :
 - une motivation existante
 - une motivation physique, psychologique ou économique à agir
 
-#### A lire 
+#### A lire
 
 Anatomy of a Live Music Fan, BandsInTown
-- http://www.slideshare.net/CellfishInc/bandsintown-reveals-what-makes-live-music-fans-tick-14065294
+
+- <http://www.slideshare.net/CellfishInc/bandsintown-reveals-what-makes-live-music-fans-tick-14065294>
 
 ## Evaluer les zones de contrôle et sphères d'influence
 
-Willam Dettmer 
+Willam Dettmer
 
 Les trois zones d'un système
 
@@ -138,11 +132,11 @@ Par exmple le besoin utilisateur ne dois pas être le besoin de l'équipe de dé
 
 De la même façon, si le besoin utilisateur est déterminé comme un aspect technique sur lequel l'équipe a directement la main, on peut penser que le besoin réel est dissimulé dans l'US (par exemple : Afin que que le temps d'export soit diminué ... ).
 
-En revanche le délivrable doit être dans la zone de contrôle de l'aquipe. Si ce n'est pas le cas, c'est le signe que la story est tout simplement irréalisable OU qu'il s'agit d'une des story partiellement accionable à commencer rapidement car elle néscessite la colaboration de spécialiste ou tier-partie. 
+En revanche le délivrable doit être dans la zone de contrôle de l'aquipe. Si ce n'est pas le cas, c'est le signe que la story est tout simplement irréalisable OU qu'il s'agit d'une des story partiellement accionable à commencer rapidement car elle néscessite la colaboration de spécialiste ou tier-partie.
 
 ### Comment ça marche
 
-Se débarrasser des fausses US et des US qui dissimule le vrai besoin ou les remplacer. 
+Se débarrasser des fausses US et des US qui dissimule le vrai besoin ou les remplacer.
 
 Concaténer les micro-US en une US plus large.
 
@@ -162,13 +156,13 @@ Ne mettre des DLC que sur les stories avec une échéance fixe et extérieure.
 
 ### Se fixer des deanlines pour confronter les risques majeurs
 
-Le fait de délivrer fréquement peut pousser les parties prenantes et les équipes de dévellopement à choisir des tâche facile, petite et qui se détourne de la vision à long terme et des risques principaux à confronter. 
+Le fait de délivrer fréquement peut pousser les parties prenantes et les équipes de dévellopement à choisir des tâche facile, petite et qui se détourne de la vision à long terme et des risques principaux à confronter.
 
-Se fixer des dead lines sur ces risques permets de réduire cette tendance à repousser les travaux dificiles et risqués. 
+Se fixer des dead lines sur ces risques permets de réduire cette tendance à repousser les travaux dificiles et risqués.
 
 #### Comment ça marche 
 
-Alistaire-Cockburn propose d'alterner entre "paying to learn" et "paying to ad business value" et résume ainsi "dévelope pour ajouter de la valeur ... dès que le risque est abaissé". 
+Alistaire-Cockburn propose d'alterner entre "paying to learn" et "paying to ad business value" et résume ainsi "dévelope pour ajouter de la valeur ... dès que le risque est abaissé".
 
 cf Lean
 
@@ -176,13 +170,13 @@ On peut créer des US d'apprentissage avec une dealine pour confronter ces risqu
 
 ### Utiliser un backlog priorisé
 
-Ne pas avoit trop de cartes. 
+Ne pas avoit trop de cartes.
 
-Ne pas diviser les grands blocs en petites tâches avant le moment de réaliser ces tâche ou l'on perd de vue la vision long terme et on investit du temps dans un travail inutile. 
+Ne pas diviser les grands blocs en petites tâches avant le moment de réaliser ces tâche ou l'on perd de vue la vision long terme et on investit du temps dans un travail inutile.
 
 ### Regrouper les US en fonctino de leur impact
 
-A lire : 
+A lire :
 
 Impact Mapping, Gojko
 
