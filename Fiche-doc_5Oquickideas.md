@@ -130,9 +130,11 @@ Ne mettre des DLC que sur les stories avec une échéance fixe et extérieure.
 
 Le fait de délivrer fréquement peut pousser les parties prenantes et les équipes de dévellopement à choisir des tâche facile, petite et qui se détourne de la vision à long terme et des risques principaux à confronter.
 
+Déterminer un labs de temps maximun servant à lever les zones de flou sur certains risques majeurs est important. La création de stories dédiés à l'évaluation de ces risques, afin de les embarquer dans les sprint est une bonne façon de se confronter aux problèmes.
+
 Se fixer des dead lines sur ces risques permets de réduire cette tendance à repousser les travaux dificiles et risqués.
 
-#### Comment ça marche 
+#### Comment ça marche
 
 Alistaire-Cockburn propose d'alterner entre "paying to learn" et "paying to ad business value" et résume ainsi "dévelope pour ajouter de la valeur ... dès que le risque est abaissé".
 
@@ -146,7 +148,7 @@ Ne pas avoit trop de cartes.
 
 Ne pas diviser les grands blocs en petites tâches avant le moment de réaliser ces tâche ou l'on perd de vue la vision long terme et on investit du temps dans un travail inutile.
 
-### Regrouper les US en fonctino de leur impact
+### Regrouper les US en fonctinon de leur impact
 
 A lire :
 
