@@ -72,13 +72,11 @@ Avoir des compétances variées est une bonne chose.
 
 - "Il est souhaitable que le Product Owner ait la connaissance et si possible la pratique de techniques de définition de produit."
 
-### Autorité pour pendre des décisions rapidement
+### Autorité (leadership) pour pendre des décisions rapidement
 
 - Le PO doit pouvoir prendre des décision seul, sans en référer à une hiérarchie. **il doit avoir la confiance de l'ensemble des parties prenantes**
 
 - En cas de contratiction parmis les intervenants, le PO doit fédérer les points de vues en *une seule proposition*.
-
-        Qui sont "les intervanants ?" S'agit-il des parties prenantes, de l'équipe de dévellopement ou des deux ?
 
 ### Capacité à détailler au bon moment
 
