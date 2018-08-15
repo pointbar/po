@@ -26,7 +26,7 @@ L'idée est d'appliquer l'approche de la *User storie maps* à un plus petit niv
 
 ## Etape 2, indentidier des option pour les tâches
 
-- Séparer l'équipe en petits groupes et leur demander de définir la **qualité** de chaque tâche. Il peuvent écrire des option sur des pot-it. ex: *cuire le poulet* présente différentes options:  
+- Séparer l'équipe en petits groupes et leur demander de définir la **qualité** de chaque tâche. Il peuvent écrire des option sur des post-it. ex: *cuire le poulet* présente différentes options:  
     •Roti au four  
     •Braisé au bbc  
     •En petits morceaux à la poêle.
