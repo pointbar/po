@@ -6,13 +6,13 @@
 
 - La storie est trop large pour être affinée convenablement.
 
-- Les stakeholders n'acceptent pas "le découpage" proposé par l'équipe de développement, car celle-ci cherche à affiner la storie d'un point de vue technique uniquement.
+- Les stakeholders n'acceptent pas "le découpage" proposé par l'équipe de développement, car celle-ci cherche à affiner la story d'un point de vue technique uniquement.
 
 - Le projet est sur le pont de démarer, mais il est impossible de formuler une ou plusieurs stories suffisamment simple (small)
 
 Les équipes de développement inexpérimentés ont souvent du mal à spliter les stories en plus petites stories capable d'apporter de la **valeur** (Business Value).
 
-L'idée est d'appliquer l'approche de la *User storie maps* à un plus petit niveau. Découper les US en tâches pour garder l'équipe dans sa zone de confort, et utiliser ensuite le résultat pour identifier de petits éléments livrable.
+L'idée est d'appliquer l'approche de la *User story maps* à un plus petit niveau. Découper les US en tâches pour garder l'équipe dans sa zone de confort, et utiliser ensuite le résultat pour identifier de petits éléments livrable.
 
 ### sources d'inspiration de l'auteur
 
