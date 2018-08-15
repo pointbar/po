@@ -157,5 +157,3 @@ Impact Mapping, Gojko
 ### Créer une US map
 
 Lire : User Storry Mapping, Jeff Patton
-
-Chappitre suivant
