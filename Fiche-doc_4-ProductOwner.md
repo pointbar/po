@@ -1,3 +1,9 @@
+---
+titre : Synthèse du Quatrième chappitre de SCRUM de Claude Aubry
+description: Synthèse du Quatrième chappitre de SCRUM de Claude Aubry
+image_url: github.com/pointbar.po
+---
+
 # Synthèse doc PO
 
 ## Intro
