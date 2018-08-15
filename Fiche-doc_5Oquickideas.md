@@ -23,10 +23,6 @@ Dans INVEST, les idées qu'une US doit être d'une part Indépendante et avoir d
 
 La conséquence est souvent de favoriser la petite taille de la US au détriment de la valeur.
 
-        J'ai besoin de précisions ou d'exemples pour 
-        m'aider à capter en quoi il est dificile de 
-        concilier "small" et "independent / value"
-
 Pour contourner ce problème, on invite à se concentrer sur la description du changement dans le comportement de l'utilisateur qui est attendus comme résultat de la US.  
 
 Par exemple au lieux de d'écrire "Etre capable d'importer des contacts",  on préfère écrire "Etre capable d'importer plus de contacts plus vite".
@@ -38,40 +34,17 @@ Répondre à ces questions va permettre de proposer la solution la plus simple p
 
 Comment les règles ou le fonctionnement va changer ?
 
-        Y a-t-il une methode de description de la US? 
-        Cette description doit-elle faire partie du 
-        "titre"? Ou bien doit elle être intégrée d'une
-        façon ou d'une autre à la storie? Cette 
-        dernière hypothèse ne semble pas coller avec 
-        l'idée de "small". Cependant, est-ce que la US
-        "Etre capable d'importer plus de contacts 
-        plus vite" décrit le changement provoqué dans 
-        le système?
-
 #### Bénéfices
 
 Cela provoque une discussion sur ce qui existe déjà et comment on espère le modifier.
 
 Pour que tous le monde comprenne les implications liées à l'embarquement d'une US. Pour comprendre l'ampleur et la complexité du travail.
 
-        Est-ce que les réunions d'affinages sont là
-        pour ça? Formuler de la façon la plus idéale 
-        possible la story peut-il être considérer 
-        comme un affinage? Si j'ai bien compris les 
-        réunions d'affinage sont là pour "découper" les 
-        stories, et donc pour justement comprendre 
-        l'ampleur et la complexité du travail. Est-ce 
-        valable de voir la chose de cette façon?
-
 #### Comment ça marche
 
 En ajoutant à l'US quelquechose comme " Alors qu'aujourd'hui nous ... " ou " Là où nous faisons ...", "A la place de ...".  
 
 Essayer d'utiliser un verbe qui décrit une nouvelles action ou un comportement nouveau.  
-
-        Un peu la même question que plus haut. Ces 
-        formules devraient-elles être incorporées au 
-        titre de la story?
 
 ### Approcher les US comme des epériences qui se suffisent à elles même
 
@@ -81,16 +54,13 @@ Pour ne pas impliquer le reste du projet en cas d'échec.
 
 Pour conserver l'implication des parties prenantes
 
-        Avoir un exemple serait cool, mais ça n'est 
-        peut être pas dans le livre.
-
 ### Eviter le générique
 
 Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter avec un compte utilisateur de n'importe quel réseaux social pour ne pas avoir besoin de me rappeler d'autres identifiant et mot de passe".
 
 "L'utilisateur" est quelque chose qu'on doit éviter à tout prix. Une catégorie aussi générique empèche d'orienter la conversation vers le réel utilisateur.
 
-Essayer l'identifier des segments d'utilisateurs afin d'orienter la réflexion sur la valeur des stories sur des cas réelement concrets.
+Essayer l'identifier des segments d'utilisateurs afin d'orienter la réflexion sur la valeur des stories, sur des cas réelement concrets.
 
 En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile. Nous avons besoin de cibler.
 
@@ -100,7 +70,9 @@ Il faut identifier les utilisateur à qui s'adresse réellement le produit.
 
 Il faut utiliser les parsonae afin d'identifier les différents segements d'utilisateurs à qui on veux s'adresser.
 
-On peut ajouter confronter ces personae à la check list de Stephen Wendel :
+**Pardonae:** petite fiche décrivant un untilisteur. Idéealement, if faudrait en avoir toute une série afin de ne pas généraliser, ni catégoriser les utilisatuers.
+
+On peut confronter ces personae à la check list de Stephen Wendel :
 
 - une expérience anterieur de cette action (US)
 - une expérience anterieur d'un produit et ou/canal similaire
@@ -158,9 +130,11 @@ Ne mettre des DLC que sur les stories avec une échéance fixe et extérieure.
 
 Le fait de délivrer fréquement peut pousser les parties prenantes et les équipes de dévellopement à choisir des tâche facile, petite et qui se détourne de la vision à long terme et des risques principaux à confronter.
 
+Déterminer un labs de temps maximun servant à lever les zones de flou sur certains risques majeurs est important. La création de stories dédiés à l'évaluation de ces risques, afin de les embarquer dans les sprint est une bonne façon de se confronter aux problèmes.
+
 Se fixer des dead lines sur ces risques permets de réduire cette tendance à repousser les travaux dificiles et risqués.
 
-#### Comment ça marche 
+#### Comment ça marche
 
 Alistaire-Cockburn propose d'alterner entre "paying to learn" et "paying to ad business value" et résume ainsi "dévelope pour ajouter de la valeur ... dès que le risque est abaissé".
 
@@ -174,7 +148,7 @@ Ne pas avoit trop de cartes.
 
 Ne pas diviser les grands blocs en petites tâches avant le moment de réaliser ces tâche ou l'on perd de vue la vision long terme et on investit du temps dans un travail inutile.
 
-### Regrouper les US en fonctino de leur impact
+### Regrouper les US en fonctinon de leur impact
 
 A lire :
 
