@@ -90,7 +90,7 @@ Eviter les US du style "En tant qu'utilisateur, je veux pouvoir me connecter ave
 
 "L'utilisateur" est quelque chose qu'on doit éviter à tout prix. Une catégorie aussi générique empèche d'orienter la conversation vers le réel utilisateur.
 
-Essayer l'identifier des segments d'utilisateurs afin d'orienter la réflexion sur la valeur des stories sur des cas réelement concrets.
+Essayer l'identifier des segments d'utilisateurs afin d'orienter la réflexion sur la valeur des stories, sur des cas réelement concrets.
 
 En essayant d'avancer en rateau vers tout les réseux sociaux, on risque de générer un effort et un coût inutile. Nous avons besoin de cibler.
 
@@ -100,7 +100,9 @@ Il faut identifier les utilisateur à qui s'adresse réellement le produit.
 
 Il faut utiliser les parsonae afin d'identifier les différents segements d'utilisateurs à qui on veux s'adresser.
 
-On peut ajouter confronter ces personae à la check list de Stephen Wendel :
+**Pardonae:** petite fiche décrivant un untilisteur. Idéealement, if faudrait en avoir toute une série afin de ne pas généraliser, ni catégoriser les utilisatuers.
+
+On peut confronter ces personae à la check list de Stephen Wendel :
 
 - une expérience anterieur de cette action (US)
 - une expérience anterieur d'un produit et ou/canal similaire
