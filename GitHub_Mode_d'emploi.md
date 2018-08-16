@@ -102,9 +102,17 @@ Un commit, c'est un point de sauvegarde, une version du doc sur lequel on travai
 
 Une fois qu'on a tapé du text dans notre .md :
 
-- si on est sur l'interface de GitHub, tout en bas de l'éditeur, on trouve un gros bouton vert pour commit.
+Soit on est sur l'interface de GitHub, tout en bas de l'éditeur, on trouve un gros bouton vert pour commit.
 
-- si on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver les modifications "en local" en appuyant sur "commande+s" puis on créé le comit en cliquant sur le petit dessin de fourche à gauche. ![fourche]
+Soit on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver les modifications "en local" en appuyant sur "commande+s" puis on créé le comit en cliquant sur le petit dessin de fourche à gauche.
+
+![fourche](https://github.com/pointbar/po/blob/master/Media_GitHub_Mode_d_emploi/fourche.png?raw=true)
+
+On écrit le nom de notre commit et appuis sur "commande+entrer".
+
+De là, on veut que les modification "en local" soient copiées sur le dépot "distant". Ca s'appel un push. Ca va transformer la branche "master", c'est à dire, la version partagée. On en dira un peu plus plus bas sur les notions de branches. Si on voulait au contraire copier la branche "master" sur notre version "local" du dépot, on fait un "pull. 
+
+Dans les deux cas, on clique sur le même bouton, en bas à gauche.
 
 
 
