@@ -114,7 +114,7 @@ De là, on veut que les modification "en local" soient copiées sur le dépot "d
 
 Dans les deux cas, on clique sur le même bouton, en bas à gauche.
 
-
+![bouton push et pull]()
 
 Ajouter un thème grâce à .yml
 ===
