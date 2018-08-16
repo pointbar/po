@@ -59,7 +59,7 @@ image_url : https://raw.githubusercontent.com/pointbar/po/master/Media_GitHub_Mo
 
 ## Compétences souhaités
 
-Avoir des compétances variées est une bonne chose.
+Avoir des compétences variées est une bonne chose.
 
 ### Bonne connaissance du métier
 
@@ -67,7 +67,7 @@ Avoir des compétances variées est une bonne chose.
 
 - Dans une configuration de développement de produit à usage interne, le PO peut parfois venir du groupe des utilisateurs.
 
-- Dans une configuration de développelement de priduit pour un client externe, le PO vient souvent des équipe Marketing ou produit.
+- Dans une configuration de développelement de produit pour un client externe, le PO vient souvent des équipes Marketing ou produit.
 
 - Lorsque le domaine fonctionnel est large, le PO pourra s'appuyer sur *les bonnes personnes* et lorsque celles-ci sont nombreuses, en désigner une, comme étant *l'interlocuteur priviliégié*. Ce sera le **business owner**.
 
@@ -81,7 +81,7 @@ Avoir des compétances variées est une bonne chose.
 
 ### Autorité (leadership) pour pendre des décisions rapidement
 
-- Le PO doit pouvoir prendre des décision seul, sans en référer à une hiérarchie. **il doit avoir la confiance de l'ensemble des parties prenantes**
+- Le PO doit pouvoir prendre des décisions seul, sans en référer à une hiérarchie. **il doit avoir la confiance de l'ensemble des parties prenantes**
 
 - En cas de contratiction parmis les intervenants, le PO doit fédérer les points de vues en *une seule proposition*.
 
@@ -93,7 +93,7 @@ Avoir des compétances variées est une bonne chose.
 
 ### Esprit ouvert au changement
 
-- Ajuster le plan et mettre à jour le backlog en fonction des *feedback* récoltés au fil des releases est au coeur de l'approche agile du PO.
+- Ajuster le plan et mettre à jour le backlog en fonction des *feedback* récoltés au fil des releases est au cœur de l'approche agile du PO.
 
 - La **Vision** du PO ne varie pas fondamentalement pendant une release. => Ne pas être une girouette non plus..
 
@@ -101,7 +101,7 @@ Avoir des compétances variées est une bonne chose.
 
 - "Le Product Owner négocie fréquemment avec l’équipe et possède la force de conviction pour justifier ses prises de position."
 
-- L'établissement des priorités dans le backlog se fait en foction de critères *définits avec l'équipe*. **La valeur** et le **risque technique** en font partie.
+- L'établissement des priorités dans le backlog se fait en fonction de critères *définis avec l'équipe*. **La valeur** et le **risque technique** en font partie.
 
 - Le PO vient au *scrum quotidien* pendant les *sprint* et reste si possible discuter avec les dévelopeurs afin d'entendre leurs propositions.
 
@@ -113,11 +113,11 @@ Avoir des compétances variées est une bonne chose.
 
 - "On estime que le travail, pour une équipe à partir de cinq personnes, nécessite une participation d’au moins trois heures par jour à disposition de l’équipe."
 
-- L'implication du PO est continue sur tout les les sprint.
+- L'implication du PO est continue sur tout les sprint.
 
-- Plus la fin de la relase approche, plus le temps que le PO consacre au projet augmente. Les priorités sont plus difficiles à déterminer et le nombre de test augmente.
+- Plus la fin de la release approche, plus le temps que le PO consacre au projet augmente. Les priorités sont plus difficiles à déterminer et le nombre de test augmente.
 
-- Imlication du PO du un sprnt de deux semaines:
+- Implication du PO du un sprint de deux semaines:
 
     • réunion de planification de sprint : environ deux heures,  
     • scrums quotidiens, deux fois par semaine (c’est un minimum): 60 minutes pour quatre séances,  
@@ -128,9 +128,10 @@ Avoir des compétances variées est une bonne chose.
 
 - En plus de participer à ces réunions, le Product Owner se doit aussi de :  
 
-    • d’affiner seul le backlog, ajuster les priorités,• répondre aux questions sur le produit,  
-    • définir les conditions d’acceptation,  
-    • passer les tests ou s’assurer qu’ils sont bien passés.
+    * d’affiner seul le backlog, ajuster les priorités,
+    * répondre aux questions sur le produit,  
+    * définir les conditions d’acceptation,  
+    * passer les tests ou s’assurer qu’ils sont bien passés.
 
 ### Une seule personne
 
@@ -138,7 +139,7 @@ Avoir des compétances variées est une bonne chose.
 
 - Il faut parler d’une seule voix à une équipe et cette voix, c’est celle du Product Owner.
 
-- Il a eu des exemples dans lesquels le PO n'était pas suffisemment disponible et avait désigné un délégué. Cela pose problème, car le risque d'avoir "deux son de cloche" augmente lorsque le PO s'exprime à la suite de son délégué. => mieux vaut alors désigner le PO comme étant partie prenante, et son délégué comme le véritable PO, au moins jusqu'à la fin de la *release* en cours.
+- Il y a eu des exemples dans lesquels le PO n'était pas suffisamment disponible et avait désigné un délégué. Cela pose problème, car le risque d'avoir "deux sons de cloche" augmente lorsque le PO s'exprime à la suite de son délégué. => mieux vaut alors désigner le PO comme étant partie prenante, et son délégué comme le véritable PO, au moins jusqu'à la fin de la *release* en cours.
 
 - Ce qui définit le rôle de PO c'est de d'établir les priorités.
 
@@ -146,11 +147,11 @@ Avoir des compétances variées est une bonne chose.
 
 ### Où le trouver dans l'organisation actuelle
 
-- Le PO sera plutôt désigné au sein d'un "service" différent de l'équipe de développement. ex: Chez un éditeur de logiciel, le PO fera souvent partie du service merketing ou du service priduit. Il aura plus de chance de cristaliser les compétences requises.
+- Le PO sera plutôt désigné au sein d'un "service" différent de l'équipe de développement. ex: Chez un éditeur de logiciel, le PO fera souvent partie du service marketing ou du service produit. Il aura plus de chance de cristaliser les compétences requises.
 
-- Dans les entreprises qui ont des utilisateurs internes, on priviligiera ce groupe de personne pour y piocher un PO. => Attention au manque de disponibilité.
+- Dans les entreprises qui ont des utilisateurs internes, on priviligiera ce groupe de personnes pour y piocher un PO. => Attention au manque de disponibilité.
 
-- Dans celles qui ont génréralement un *chef de projet* pour tout leus produits, on choisira cette personne là pour le sa qualité de leader. **Mais pas de chef!**
+- Dans celles qui ont généralement un *chef de projet* pour tous leurs produits, on choisira cette personne là pour sa qualité de leader. **Mais pas de chef !**
 
 ### Une personne motivée pour le rôle
 
@@ -162,7 +163,7 @@ Avoir des compétances variées est une bonne chose.
 
 ### Se former au rôle de Product Owner
 
-- être accompagné dans sa mise en oeuvre par un coach sous forme de binome peut être une bonne chose.
+- être accompagné dans sa mise en oeuvre par un coach sous forme de binôme peut être une bonne chose.
 
 ### S'impliquer dans les test d'acceptation
 
@@ -172,27 +173,27 @@ Avoir des compétances variées est une bonne chose.
 
 - Ces conditions peuvent être: 
 
-    •formalisées de manière informelle => communication améliorée,  
+    * formalisées de manière informelle => communication améliorée,  
 
-    •formalisées en test d'acceptation => Automatisés et passés régulièrement. Cette dernière approche s'appelle **spécification par l'exemple**
+    * formalisées en Test d'Acceptation => Automatisés et passés régulièrement. Cette dernière approche s'appelle **spécification par l'exemple**
 
 ### Collaborer avec l'équipe
 
-- Le PO n'est pas uniquement représentant des utilisateur auprès de l'équipe, **il fait partie de l'équipe**. Il paticipe au travaux pendant *le sprint*.
+- Le PO n'est pas uniquement représentant des utilisateurs auprès de l'équipe, **il fait partie de l'équipe**. Il paticipe au travaux pendant *le sprint*.
 
-- Dans l'idéal, le PO s'instale dans le même aspace de travail que l'équipe de développement.
+- Dans l'idéal, le PO s'installe dans le même espace de travail que l'équipe de développement.
 
-- Dans les cas où sa présence physique n'est pas possible, les outils de travail collaboratis sont de bonnes alternatives.
+- Dans les cas où sa présence physique n'est pas possible, les outils de travail collaboratifs sont de bonnes alternatives.
 
 ### Utiliser le produit
 
-- "Un bon Product Owner aime son produit. S’il l’utilise tous les jours, il y a des chances qu’il soit incité à en faire un bon produit. Il sera plus à même de discerner la valeur ajoutée par les fonctions dans le backlog. Bien connaître son produit lui donnera une position respectée par tous et facilitera ses prises de décision."
+- "Un bon Product Owner aime son produit. S’il l’utilise tous les jours, il y a des chances qu’il soit incité à en faire un bon produit. Il sera plus à même de discerner la valeur ajoutée des fonctionnalités présentes le backlog. Bien connaître son produit lui donnera une position respectée par tous et facilitera ses prises de décision."
 
 - "C’est aussi dans sa mission de faire des démonstrations à l’extérieur et de présenter le produit aux utilisateurs. Il en profitera pour valider les hypothèses sur les nouveautés qu’il envisage d’inclure dans le produit."
 
 ### Impliquer les parties prenantes
 
-- Le PO invite les parties prenantes à la revue de chaque fin de sprint (Utilisateurs, sponsor etc...). Il doit vraiment les inciter à y venir car cette revue est un moment d’inspection collectif de l’état du produit.
+- Le PO invite les parties prenantes à la revue de chaque fin de sprint (Utilisateurs, sponsors etc.). Il doit les inciter à y venir car cette revue est un moment d’inspection collectif de l’état du produit.
 
 ### Planifier à moyen terme
 
@@ -214,4 +215,4 @@ Avoir des compétances variées est une bonne chose.
 
 ## En résumé
 
-- "Dans une équipe Scrum qui développe un produit, le Product Owner est le responsable du résultat auprès des parties prenantes. Il apporte sa vision à l’équipe et définit les priorités de façon à obtenir un produit apportant le maximum de valeur.  L’implication d’un bon Product Owner est capitale pour assurer le succès du projet. En définissant sa vision sur le produit, il donne l’impulsion à l’équipe. En faisant la promotion du résultat de chaque sprint auprès des utilisateurs, il fournit à l’équipe une reconnaissance qui la motive. En collaborant avec l’équipe, il fait converger les énergies pour maximiser la valeur ajoutée au produit."
+- "Dans une équipe Scrum qui développe un produit, le Product Owner est le responsable du résultat auprès des parties prenantes. Il apporte sa vision à l’équipe et définit les priorités de façon à obtenir un produit apportant le maximum de valeur. L’implication d’un bon Product Owner est capitale pour assurer le succès du projet. En définissant sa vision sur le produit, il donne l’impulsion à l’équipe. En faisant la promotion du résultat de chaque sprint auprès des utilisateurs, il fournit à l’équipe une reconnaissance qui la motive. En collaborant avec l’équipe, il fait converger les énergies pour maximiser la valeur ajoutée au produit."
