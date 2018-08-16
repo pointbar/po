@@ -10,7 +10,7 @@
 
 *<http://referentiel.institut-agile.fr/invest.html>
 
-INVEST est une grille de critère, un filtre au travers duquel seul passeront les user stories répondants aux carractéristiques requises. C'est un outil permettant de vérifier point par point les différentes qualités d'une story.
+INVEST est une grille de critère, un filtre au travers du quel seul passeront les user stories répondants aux carractéristiques requises. C'est un outil permettant de vérifier point par point les différentes qualités d'une story.
 
 ### I pour indépendant
 
