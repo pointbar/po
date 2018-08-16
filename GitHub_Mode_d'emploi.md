@@ -114,13 +114,31 @@ De là, on veut que les modification "en local" soient copiées sur le dépot "d
 
 Dans les deux cas, on clique sur le même bouton, en bas à gauche.
 
-![bouton push et pull]()
+![bouton push et pull](https://github.com/pointbar/po/blob/master/Media_GitHub_Mode_d_emploi/bouton_push_et_pull.png?raw=true)
 
-Ajouter un thème grâce à .yml
-===
+## Visualiser le contenu du dépot grâce à Multibao
 
-Créer une page GitHub (Visualiser le dépot au travers d'un site web)
-===
+Ca y est, votre contenu est en ligne !
+
+On peut le visualiser dès maintenant via multibao en tapant dans le navigateur :
+
+    "https://www.multibao.org/#le nom du propriétaire/le nom du dépot/" 
+
+De cette façon, vous ne pouvez pas choisir un autre thème que celui de multibao.
+
+## Ajouter un thème grâce à .yml
+
+Pour choisir le thème, on créé un fichier qu'on appel config.yml et en tappant simplement sur la première ligne :
+
+    remote_theme: le nom du thème qu'on préfère
+
+par exemple :
+
+    remote_theme: daktary-team/maquillage
+
+## Créer une page GitHub (Visualiser le dépot au travers d'un site web)
+
+##
 
 ## Inviter des collaborateurs
 
