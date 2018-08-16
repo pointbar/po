@@ -4,4 +4,52 @@
 
 ## INVEST
 
-INVEST est une grille de critère, un filtre au travers duquel seul passeront les user stories répondants au carractéristiques requises. C'est un outil permettant de juger de la *qualité* d'une story 
+=> sources:
+
+*<https://www.berejeb.com/2013/12/bien-definir-en-agile-investir-dans-vos-stories/>
+
+*<http://referentiel.institut-agile.fr/invest.html>
+
+INVEST est une grille de critère, un filtre au travers du quel seul passeront les user stories répondants aux carractéristiques requises. C'est un outil permettant de vérifier point par point les différentes qualités d'une story.
+
+### I pour indépendant
+
+- Les stories doivent être indépendants l’une de l’autre. Ce qui permettra a l’équipe de les réaliser et les livrer sans qu’ils affectent l’ensemble des livrables.
+
+- Elles doivent pouvoir être implémentées avant ou après n'importe quelle autre story.
+
+- une erreur classique étant par exemple d'argumenter que "la Story sur la prise de commande implique d'avoir ouvert un compte, donc il faut réaliser en premier celle concernant l'identification (login) de l'acheteur". C'est un peu comme supposer qu'on ne peut écrire le chapitre 2 d'un roman qu'après avoir achevé le chapitre 1: plus facile, mais avec un peu d'imagination on arrive très bien à inverser cette séquence. Dans notre exemple l'équipe de développement mettra en place les "bouchons" nécessaires pour simuler un utilisateur identifié.
+
+### N pour négociable... et négocié
+
+- Un récit doit être le fruit d’une collaboration entre l’équipe et le client, afin de fournir le maximum de valeur pour ce dernier. Un bon récit ne représente pas un contrat détaillé de fonctionnalités, mais se focalise sur l’essence de la fonctionnalité. La négociation est un élément fondamental pour comprendre l’essence du besoin du client.
+
+- ne formuler dans un premier temps que l'essentiel, à savoir l'objectif fonctionnel recherché; on évitera par exemple de spécifier dans une User Story des éléments techniques, par exemple "En tant qu'acheteur, lorsque j'écris dans le champ texte puis que je clique sur le bouton Recherche, la liste à gauche du champ de recherche est renseignée avec les articles correspondants". Ces détails d'implémentation feront l'objet d'une discussion permettant d'identifier la meilleure solution; initialement, une formulation du type "L'acheteur peut chercher des articles par mot-clé" est suffisante pour l'estimation et la planification.
+
+### V pour Valuable
+
+- Ou **veticale** c'est à dire, ayant de la valeur en soit.
+
+- Une story doit avoir de la valeur pour le client. C’est la principale caractéristique d’une story. Généralement, cette caractéristique est perdue lors d’un mauvais découpage de stories. Un bon découpage est un découpage qui livre de la valeur pour le client à chaque story. Imaginez que vous découpez un gâteau à couches par exemple, Personne ne voudra d’un gâteau découpé horizontalement, tout le monde veut plutôt un morceau qui contient l’ensemble des couches. C’est de même pour la story. Ces couches peuvent être assimiles aux couches réseau, persistance, business et interface utilisateur etc. Livrer un ensemble fonctionnel, partie par partie au client a toujours de la valeur.
+
+- représenter un incrément réellement utile pour l'utilisateur final ou du point de vue du client. Par exemple, "réaliser le schéma de la base de données pour la facturation" n'est pas un incrément ayant de la valeur en soi, mais une tâche technique. A contrario, "émettre une facture pour les achats d'articles en France" en laissant pour plus tard une seconde Story dont l'énoncé serait "émettre une facture pour des achats livrés depuis l'étranger" représente un meilleur découpage: chaque incrément permet de réaliser une partie distincte du chiffre d'affaires.
+
+### E pour Estimable
+
+- Une story doit être estimable. Sans forcément avoir un estimé exact, nous pouvons en donner assez pour aider le client à prioriser et planifier l’implémentation des stories. C’est le rôle de l’équipe d’estimer, ceci dépendra éventuellement de l’expérience.
+
+- Il arrive souvent que l’équipe n’a pas suffisamment d’informations pour estimer. Dans ce cas, cette dernière doit diviser la story en un “Spike” ayant une durée fixe (time-boxed) et permettant d’avoir assez d’information pour pouvoir estimer le reste de la story.
+
+- être suffisamment comprise, mais également suffisamment précise. Il arrive parfois qu'on formule des User Stories qui représentent presque un projet à part entière, par exemple "Optimiser le calendrier de livraison des achats". Les conditions de satisfaction doivent être suffisamment précises et restreintes pour que l'équipe de développement puisse quantifier l'effort d'implémentation, sinon dans l'absolu du moins en termes de complexité relative. (L'équipe estime par exemple que "Livrer en deux fois lorsque des écarts supérieurs à une semaine séparent les dates de livraison de deux articles du panier" représente deux fois l'effort requis pour "Emettre la facture", cette dernière servant en quelque sorte d'étalon.)
+
+### S pour Small
+
+- Une bonne story demande généralement peu de personnes-semaines (ou même peu de personnes-jours) pour être réalisée. Souvent, il viendrait à l’esprit que d’avoir moins de temps et de description mènerait à une mauvaise interprétation, mais l’objectif essentiel derrière ceci est de laisser les détails être élaborées par les conversations directes avec le client.
+
+- La granularité exacte est fonction du nombre de personnes dans l'équipe de développement et de la durée de l'itération, le critère déterminant étant la possibilité de terminer au minimum une, et idéalement cinq ou six au minimum, User Stories dans une seule itération.
+
+### T pour testable
+
+- Ecrire une story implique une promesse cachée : “Je connais suffisamment ce que je veux que je pourrais écrire un test pour”. L’équipe devrait demander au client de l’information sur comment il compte tester sa story. Le plutôt que les tests sont définis, plus vite l’objectif réel est atteint. Généralement, si un client ne sait pas comment il va tester sa story, ceci montre que cette dernière n’est pas assez claire, ou qu’elle n’a pas beaucoup de valeur, ou que ce dernier a plutôt besoin d’aide pour la tester. Dernièrement, les tests non fonctionnels peuvent être considérées comme des requis qui doivent être testées. En déterminant comment réaliser ces tests, l’équipe se rend compte les besoins réels du client.
+
+- être suffisamment bien comprise pour qu'il soit possible de fournir un exemple détaillé: "Lorsque j'achète l'article X au prix Y, sachant que la TVA sur la catégorie Livres est de Z, la facture doit indiquer le montant total suivant:…" La fonctionnalité envisagée doit entraîner de la part du produit des conséquences ou des comportements observables. Ainsi "Améliorer la performance" n'est pas une bonne User Story, il est préférable de préciser: "La page contenant les résultats de recherche doit s'afficher en moins de 2 secondes".
