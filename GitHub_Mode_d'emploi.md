@@ -79,6 +79,12 @@ Très simplement, on peut mettre en page :
 
 - des titres en ajoutant un ou plusieurs #. Plus on en mets plus on descend dans les niveaux de titre. Par exemple :
 
+        # Titre
+        ## Titre
+        ### Titre
+        #### Titre
+
+
 # Titre
 ## Titre
 ### Titre
@@ -86,13 +92,19 @@ Très simplement, on peut mettre en page :
 
 - de l'italique en encadrant de * de chaque côté :
 
+        *italique*
+
 *italique*
 
 - du gras en encadrant de deux ** de chaque côté :
 
+        **gras**
+
 **gras**
 
 - des images en utilisant ![le text qui s'affiche en cas de bug](l'url de l'image) :
+
+        ![image](https://i1.wp.com/www.berejeb.com/wp-content/uploads/2013/12/agile-dilbert-story.gif)
 
 ![image](https://i1.wp.com/www.berejeb.com/wp-content/uploads/2013/12/agile-dilbert-story.gif)
 
