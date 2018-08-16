@@ -39,11 +39,31 @@ Ca créé un premier fichier dans notre dépot. Ca permet de beaucoup moins gal�
 
 ![créer le readme](https://github.com/pointbar/po/blob/master/Media%20GitHub%20Mode%20d'emploi/Capture%20d%E2%80%99%C3%A9cran%202018-08-16%20%C3%A0%2021.40.15.png?raw=true)
 
+## Installer GitHub Desktop
+
+GitHub Desktop est une appli qui permet de cloner le dépot "en local" sur ton ordinateur. En fait, c'est une appli qui lit les .git, les fichiers qui gardent tout l'historique des différentes versions.
+
+Télécharger GitHub Desktop : <https://desktop.github.com/>
+
+On s'identifie dedans avec les même identifiants que sur GitHub.
+
+A partir de là on va retrouver facilement le dépot qu'on a créé sur GitHub.
+
+On va dans "File", "clone repository" et on copie/colle l'URL ou le "nom du propriétaire/nom du dépot".
+
+Maintenant, on a sur notre ordianteur une copie de tous les contenus présents dans le dépot "distant".
+
 ## Installer Visual Studio Code
+
+C'est le dernier truc qu'on installe.
 
 Visual Studio Code est un éditeur. C'est à dire qu'il permet (entre autre mille tucs ...) d'écrire sur un document et notament de prévisualiser la mise en page d'un document en MarkDown, le langage dont on parle plus bas.
 
 Télécharger Visual Studio Code : <https://code.visualstudio.com/>
+
+Dans VSC, on va sur "Fichier" ,"ouvrir" et on choisi le dépot dans le dossier "GitHub".
+
+On va voir apparaitre tous les contenus sur notre gauche.
 
 ## Quelques utilisation de MD
 
