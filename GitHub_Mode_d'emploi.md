@@ -65,7 +65,36 @@ Dans VSC, on va sur "Fichier" ,"ouvrir" et on choisi le dépot dans le dossier "
 
 On va voir apparaitre tous les contenus sur notre gauche.
 
-## Quelques utilisation de MD
+A partir de maintenant, on a toujours le choix de travailler directement via l'interface de GitHub sur leur site ou en local depuis notre éditeur. On va voir plus bas comment on fusionne les deux fichiers.
+
+## Quelques utilisations de MarkDown
+
+MarkDown est un langage informatique qui va nous servir à mettre en page du text et des contenus multi-media. C'est un langage basé sur le HTML, le langage des sites web.
+
+En créant notre premier fichier, on en fait un fichier MarkDown en ajoutant .md à la fin. C'est ce qui fait que les ordinateurs vont comprendre qu'on utilise ce langage.
+
+Le mieux est de regarder ces petits conseils sur VSC ou un autre éditeur pour voir à la fois le text RAW (brut) et la mise en page. 
+
+Très simplement, on peut mettre en page :
+
+- des titres en ajoutant un ou plusieurs #. Plus on en mets plus on descend dans les niveaux de titre. Par exemple :
+
+# Titre
+## Titre
+### Titre
+#### Titre
+
+- de l'italique en encadrant de * de chaque côté :
+
+*italique*
+
+- du gras en encadrant de deux ** de chaque côté :
+
+**gras**
+
+- des images en utilisant ![le text qui s'affiche en cas de bug](l'url de l'image) :
+
+![image](https://i1.wp.com/www.berejeb.com/wp-content/uploads/2013/12/agile-dilbert-story.gif)
 
 Commit, push and pull
 ===
