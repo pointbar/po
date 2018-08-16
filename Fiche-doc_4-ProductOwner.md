@@ -1,11 +1,11 @@
 ---
 title : Synthèse chapitre sur le product owner dans SCRUM de Claude Aubry
 description: Synthèse du quatrième chappitre de SCRUM de Claude Aubry
-image_url : https://raw.githubusercontent.com/pointbar/po/master/Media%20GitHub%20Mode%20d'emploi/Scrum_cover.png
+image_url : https://raw.githubusercontent.com/pointbar/po/master/Media_GitHub_Mode_d_emploi/Scrum_cover.png
 ---
 
 # Synthèse chapitre sur le product owner dans SCRUM de Claude Aubry
-![my caption](https://raw.githubusercontent.com/pointbar/po/master/Media GitHub Mode d'emploi/Scrum_cover.png)
+![my caption](https://raw.githubusercontent.com/pointbar/po/master/Media_GitHub_Mode_d_emploi/Scrum_cover.png)
 
 ## Intro
 
