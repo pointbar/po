@@ -12,7 +12,7 @@ Et en vrai, à la base, c'est pour écrire du code (informatique) à plusieur. C
 
 ## Pour qui
 
-Pour tout ceux qui ont besoin de diffuser du contenu ou de le partager surtout si on a envie de bosser à plusieur dessus. 
+Pour tout ceux qui ont besoin de diffuser du contenu ou de le partager surtout si on a envie de bosser à plusieur dessus.
 
 ## Créer un compte GitHub
 
@@ -25,9 +25,11 @@ Cliquer sur signup.
 
 ## Créer un dépot
 
+Un dépot, c'est comme un disque dur mais "distant". C'est à dire qu'il n'est pas chez toi, "en local". 
+
 Cliquer sur le bouton "nem repository" depuis la page d'accueui personalisé de GitHub (On la retrouve ne cliquant sur le chat)
 
-![new repository](https://github.com/pointbar/po/blob/master/Capture%20d%E2%80%99e%CC%81cran%202018-08-16%20a%CC%80%2016.35.26.png?raw=true)
+![new repository](https://github.com/pointbar/po/blob/master/Media%20GitHub%20Mode%20d'emploi/Capture%20d%E2%80%99%C3%A9cran%202018-08-16%20%C3%A0%2016.35.26.png?raw=true)
 
 ### Penser à créer un readme.md au moment de l'initialisation du dépot
 
@@ -35,30 +37,35 @@ En cliquant sur la case à cocher.
 
 Ca créé un premier fichier dans notre dépot. Ca permet de beaucoup moins galérer ensuite.
 
-![créer le readme](https://github.com/pointbar/po/blob/master/Capture%20d%E2%80%99e%CC%81cran%202018-08-16%20a%CC%80%2021.40.15.png?raw=true)
+![créer le readme](https://github.com/pointbar/po/blob/master/Media%20GitHub%20Mode%20d'emploi/Capture%20d%E2%80%99%C3%A9cran%202018-08-16%20%C3%A0%2021.40.15.png?raw=true)
 
-Partager avec des collaborateurs
-===
+## Installer Visual Studio Code
 
-Installer Vs
-===
+Visual Studio Code est un éditeur. C'est à dire qu'il permet (entre autre mille tucs ...) d'écrire sur un document et notament de prévisualiser la mise en page d'un document en MarkDown, le langage dont on parle plus bas.
 
-Quelques utilisation de MD
-===
+Télécharger Visual Studio Code : <https://code.visualstudio.com/>
+
+## Quelques utilisation de MD
 
 Commit, push and pull
-===
-
-Fork and merge
-===
-
-Revue pull request
 ===
 
 Ajouter un thème grâce à .yml
 ===
 
 Créer une page GitHub (Visualiser le dépot au travers d'un site web)
+===
+
+## Inviter des collaborateurs
+
+Les collaborateurs sont les personnes qui peuvent modifier les contenus sans demander d'autorisations. Ca permettra de bosser à plusieurs.
+
+Pour faire ça, il faut être propriétaire du dépot. On trouve l'option dans le menu, tout à droite, dans "Settings". Puis dans "collaborator".
+
+Fork and merge
+===
+
+Revue pull request
 ===
 
 Utiliser GitHub pour la gestion de projet
