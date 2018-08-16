@@ -166,14 +166,23 @@ Les collaborateurs sont les personnes qui peuvent modifier les contenus sans dem
 
 Pour faire ça, il faut être propriétaire du dépot. On trouve l'option dans le menu, tout à droite, dans "Settings". Puis dans "collaborator".
 
-Fork and merge
-===
+## Fork and merge
 
-Revue pull request
-===
+Un projet est comme un arbre. A chaque fois qu'on commence une nouvelle version du projet, c'est une nouvelle branche, un "fork". A tout moment, on peut proposer au propriétaire de la branche "master", du tronc, de refusionner les deux branche, de faire un "merge".
 
-Utiliser GitHub pour la gestion de projet
-===
+C'est comme "push un commit" mais sur un projet dont on est pas propriétaire.
+
+## Revue pull request
+
+L'oppération de merger est une "pull request". C'est a dire qu'on demande a importer les nouvelles modifications sur la branche "master".
+
+Dans ces cas là, le propriétaire de la branche va faire une revue pour voir s'il accepte ou refuse les nouvelles modifications.
+
+## Utiliser GitHub pour la gestion de projet
+
+GitHub a une fonction de gestion de projet sous forme de kanban. On trouve cette focntino dans l'onglet "Projects" d'un dépot GitHub. 
+
+De là un gros bouton vert permet de créer un projet, de lui donner un nom et de choisir le nombre de colones de notre kanban.
 
 ## Supprimer un dépot
 
