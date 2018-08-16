@@ -1,15 +1,21 @@
 # GitHub Mode d'emploi
 
-## Pour quoi ?
+## Pour quoi
 
-## Pour qui ?
+## Pour qui
+
+## Créer un compte GitHub
+
+Se rendre sur <https://www.github.com>
+
+Choisir un blaze.  
+Renseigner une adresse mail.  
+Choisir un mot de passe.  
+Cliquer sur signup.  
+
+## Créer un dépot
 
 
-Créer un compte GitHub
-===
-
-Créer un dépot
-===
 
 Partager avec des collaborateurs
 ===
