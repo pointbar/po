@@ -5,7 +5,7 @@ image_url : https://github.com/pointbar/po/blob/master/SCRUM_cover.png?raw=true
 ---
 
 # Synthèse chappitre sur le product owner dans SCRUM de Claude Aubry
-![my caption](https://github.com/pointbar/po/blob/master/SCRUM_cover.png?v=4&s=0,5)
+![my caption](https://github.com/pointbar/po/blob/master/SCRUM_cover.png?raw=true)
 
 ## Intro
 
