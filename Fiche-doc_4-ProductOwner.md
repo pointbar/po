@@ -5,7 +5,7 @@ image_url : https://github.com/pointbar/po/blob/master/SCRUM_cover.png?raw=true
 ---
 
 # Synthèse chappitre sur le product owner dans SCRUM de Claude Aubry
-![my caption | 20% ](https://github.com/bointbar/po/blob/master/SCRUM_cover.jpg?raw=true)
+![my caption](https://github.com/bointbar/po/blob/master/SCRUM_cover.jpg?raw=true)
 ## Intro
 
 - C’est pour éviter Le manque d’unité dans le contenu d’un produit que le Product Owner existe dans Scrum. Sa raison d’être est de faire en sorte que le travail fait apporte de la valeur. Il est responsable du succès du produit en définissant les priorités pour son développement.
