@@ -110,7 +110,7 @@ Soit on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver le
 
 On écrit le nom de notre commit et appuis sur "commande+entrer".
 
-De là, on veut que les modification "en local" soient copiées sur le dépot "distant". Ca s'appel un push. Ca va transformer la branche "master", c'est à dire, la version partagée. On en dira un peu plus plus bas sur les notions de branches. Si on voulait au contraire copier la branche "master" sur notre version "local" du dépot, on fait un "pull. 
+De là, on veut que les modification "en local" soient copiées sur le dépot "distant". Ca s'appel un push. Ca va transformer la branche "master", c'est à dire, la version partagée. On en dira un peu plus plus bas sur les notions de branches. Si on voulait au contraire copier la branche "master" sur notre version "local" du dépot, on fait un "pull.
 
 Dans les deux cas, on clique sur le même bouton, en bas à gauche.
 
@@ -122,7 +122,7 @@ Ca y est, votre contenu est en ligne !
 
 On peut le visualiser dès maintenant via multibao en tapant dans le navigateur :
 
-    "https://www.multibao.org/#le nom du propriétaire/le nom du dépot/" 
+    "https://www.multibao.org/#le nom du propriétaire/le nom du dépot/"
 
 De cette façon, vous ne pouvez pas choisir un autre thème que celui de multibao.
 
@@ -138,7 +138,15 @@ par exemple :
 
 ## Créer une page GitHub (Visualiser le dépot au travers d'un site web)
 
-##
+Pour avoir un vrai site sans passer par multibao, on peut créer une page GitHub.
+
+On va dans "settings" à doite du menu du dépot sur GitHub.
+
+On descend un peu jusqu'à GitHub Pages et on clique sur "Save" après avoir choisi "Master Branch" comme "source".
+
+![GitHub Pages](https://github.com/pointbar/po/blob/master/Media_GitHub_Mode_d_emploi/github_pages.png?raw=true)
+
+Ca y est, on a un site. L'adresse est indiquée là.
 
 ## Inviter des collaborateurs
 
@@ -155,5 +163,8 @@ Revue pull request
 Utiliser GitHub pour la gestion de projet
 ===
 
-Supprimer un dépot
-===
+## Supprimer un dépot
+
+A ne faire qu'en dernier recours. Bien penser à vérifier que plus personne ne travail sur une version de ce projet sauf si on veut mettre des gens dans la merde.
+
+Tout en bas de setting, on trouve l'option "Delete this repositoty".
