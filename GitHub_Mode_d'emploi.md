@@ -29,7 +29,7 @@ Un dépot, c'est comme un disque dur mais "distant". C'est à dire qu'il n'est p
 
 Cliquer sur le bouton "nem repository" depuis la page d'accueui personalisé de GitHub (On la retrouve ne cliquant sur le chat)
 
-![new repository](https://github.com/pointbar/po/blob/master/Media%20GitHub%20Mode%20d'emploi/Capture%20d%E2%80%99%C3%A9cran%202018-08-16%20%C3%A0%2016.35.26.png?raw=true)
+![new repository](https://github.com/pointbar/po/blob/master/Media_GitHub_Mode_d_emploi/new_repository.png?raw=true)
 
 ### Penser à créer un readme.md au moment de l'initialisation du dépot
 
@@ -37,7 +37,7 @@ En cliquant sur la case à cocher.
 
 Ca créé un premier fichier dans notre dépot. Ca permet de beaucoup moins galérer ensuite.
 
-![créer le readme](https://github.com/pointbar/po/blob/master/Media%20GitHub%20Mode%20d'emploi/Capture%20d%E2%80%99%C3%A9cran%202018-08-16%20%C3%A0%2021.40.15.png?raw=true)
+![créer le readme](https://github.com/pointbar/po/blob/master/Media_GitHub_Mode_d_emploi/case_a_cocher.png?raw=true)
 
 ## Installer GitHub Desktop
 
@@ -104,7 +104,9 @@ Une fois qu'on a tapé du text dans notre .md :
 
 - si on est sur l'interface de GitHub, tout en bas de l'éditeur, on trouve un gros bouton vert pour commit.
 
-- si on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver les modifications "en local" en appuyant sur "commande+s" puis on créé le comit en cliquant sur le petit dessin de fourche à gauche 
+- si on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver les modifications "en local" en appuyant sur "commande+s" puis on créé le comit en cliquant sur le petit dessin de fourche à gauche. ![fourche]
+
+
 
 Ajouter un thème grâce à .yml
 ===
