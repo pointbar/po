@@ -96,8 +96,15 @@ Très simplement, on peut mettre en page :
 
 ![image](https://i1.wp.com/www.berejeb.com/wp-content/uploads/2013/12/agile-dilbert-story.gif)
 
-Commit, push and pull
-===
+## Commit, push and pull
+
+Un commit, c'est un point de sauvegarde, une version du doc sur lequel on travail. Le mieux, s'est de donner un nom a cette version, à ce commit, en écrivant un peit message qui explicite ce qu'on a fait de nouveau.
+
+Une fois qu'on a tapé du text dans notre .md :
+
+- si on est sur l'interface de GitHub, tout en bas de l'éditeur, on trouve un gros bouton vert pour commit.
+
+- si on est dans l'éditeur de text (VSC par exemple), on doit d'abord sauver les modifications "en local" en appuyant sur "commande+s" puis on créé le comit en cliquant sur le petit dessin de fourche à gauche 
 
 Ajouter un thème grâce à .yml
 ===
