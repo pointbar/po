@@ -4,14 +4,21 @@
 
 ## Une user story c'est quoi
 
+=> Sources: 
+
+*<http://blog.thiga.fr/glossaire/definition-user-story/>
+
+Une user story est une description fonctionnelle d'une fonctionalité à développer. Elle spécifie les utilisateurs concernés, ainsi que la **valeur** qu'elle ajoutera à leur utilisation du produit.
+Bien qu'il y ai à priori beaucoup de libertés sur la forme physique et les formules verbales que peut prendre une user story, il sera souvent de bon aloi de la formuler suivant ce model: *En tant que **qui**, je veux **quoi** afin de **pourquoi***. À tout le moins, lorsqu'on débute.
+
 La user story réponds à l'un des principes les plus importants de l'agilité, à savoir, minimiser le travail inutile.  
 Pour bien comprendre cette idée, il convient de tenir compte des utilisateurs du produit, et de l'impact que la prochaine partie du travail de développement aura sur l'utilisation de ce produit.
 
-Une user story est une description fonctionnelle d'une fonctionalité à développer. Elle spécifie les utilisateurs concernés, ainsi que le **valeur** qu'elle ajoutera à leur utilisation. De manière générale, 
-En tant que **qui**, je veux **quoi** afin de **pourquoi**.
+L'imprtance du préciser le **pourquoi** dans l'intitulé de la story s'explique par une réflexion profondément centrée sur la **valeur**. En quoi l'ajout de tel ou tel fonctionalité impactera le comportement de l'utilisateur lors de l'usage du produit.  
+Pouvoir mesurer cette valeur ajoutée est primordiale, en raison notemment de la nécésité de **prioriser** les stories dans le **Backlog**.
 
-
-
+Il est important également de préciser **qui** est concerné par la story. Premièrement parce qu'il n'est pas toujours nécessairement question d'un utilisateur. Ce peut être: "en tant que *développeur*, je veux *tel ou tel chose*, afin *d'accélerer tel ou tel procéssus*". Deuxièmement parce qu'il est de bon ton de ne pas généraliser le concept d'utilisateur. Il y a en effet plusieurs segments d'utilisateurs. On pourrait même aller plus loin et dire que tous les utilisateurs sont différents.  
+En tout cas, préciser le **qui** semble être très important.
 
 ## INVEST
 
