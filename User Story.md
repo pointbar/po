@@ -2,6 +2,17 @@
 
 ![image](https://i1.wp.com/www.berejeb.com/wp-content/uploads/2013/12/agile-dilbert-story.gif)
 
+## Une user story c'est quoi
+
+La user story réponds à l'un des principes les plus importants de l'agilité, à savoir, minimiser le travail inutile.  
+Pour bien comprendre cette idée, il convient de tenir compte des utilisateurs du produit, et de l'impact que la prochaine partie du travail de développement aura sur l'utilisation de ce produit.
+
+Une user story est une description fonctionnelle d'une fonctionalité à développer. Elle spécifie les utilisateurs concernés, ainsi que le **valeur** qu'elle ajoutera à leur utilisation. De manière générale, 
+En tant que **qui**, je veux **quoi** afin de **pourquoi**.
+
+
+
+
 ## INVEST
 
 => sources:
@@ -26,7 +37,7 @@ INVEST est une grille de critère, un filtre au travers du quel seul passeront l
 
 - ne formuler dans un premier temps que l'essentiel, à savoir l'objectif fonctionnel recherché; on évitera par exemple de spécifier dans une User Story des éléments techniques, par exemple "En tant qu'acheteur, lorsque j'écris dans le champ texte puis que je clique sur le bouton Recherche, la liste à gauche du champ de recherche est renseignée avec les articles correspondants". Ces détails d'implémentation feront l'objet d'une discussion permettant d'identifier la meilleure solution; initialement, une formulation du type "L'acheteur peut chercher des articles par mot-clé" est suffisante pour l'estimation et la planification.
 
-### V pour Valuable
+### V pour valuable
 
 - Ou **veticale** c'est à dire, ayant de la valeur en soit.
 
@@ -34,7 +45,7 @@ INVEST est une grille de critère, un filtre au travers du quel seul passeront l
 
 - représenter un incrément réellement utile pour l'utilisateur final ou du point de vue du client. Par exemple, "réaliser le schéma de la base de données pour la facturation" n'est pas un incrément ayant de la valeur en soi, mais une tâche technique. A contrario, "émettre une facture pour les achats d'articles en France" en laissant pour plus tard une seconde Story dont l'énoncé serait "émettre une facture pour des achats livrés depuis l'étranger" représente un meilleur découpage: chaque incrément permet de réaliser une partie distincte du chiffre d'affaires.
 
-### E pour Estimable
+### E pour estimable
 
 - Une story doit être estimable. Sans forcément avoir un estimé exact, nous pouvons en donner assez pour aider le client à prioriser et planifier l’implémentation des stories. C’est le rôle de l’équipe d’estimer, ceci dépendra éventuellement de l’expérience.
 
@@ -42,7 +53,7 @@ INVEST est une grille de critère, un filtre au travers du quel seul passeront l
 
 - être suffisamment comprise, mais également suffisamment précise. Il arrive parfois qu'on formule des User Stories qui représentent presque un projet à part entière, par exemple "Optimiser le calendrier de livraison des achats". Les conditions de satisfaction doivent être suffisamment précises et restreintes pour que l'équipe de développement puisse quantifier l'effort d'implémentation, sinon dans l'absolu du moins en termes de complexité relative. (L'équipe estime par exemple que "Livrer en deux fois lorsque des écarts supérieurs à une semaine séparent les dates de livraison de deux articles du panier" représente deux fois l'effort requis pour "Emettre la facture", cette dernière servant en quelque sorte d'étalon.)
 
-### S pour Small
+### S pour small
 
 - Une bonne story demande généralement peu de personnes-semaines (ou même peu de personnes-jours) pour être réalisée. Souvent, il viendrait à l’esprit que d’avoir moins de temps et de description mènerait à une mauvaise interprétation, mais l’objectif essentiel derrière ceci est de laisser les détails être élaborées par les conversations directes avec le client.
 
