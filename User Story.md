@@ -73,3 +73,8 @@ INVEST est une grille de critère, un filtre au travers du quel seul passeront l
 - être suffisamment bien comprise pour qu'il soit possible de fournir un exemple détaillé: "Lorsque j'achète l'article X au prix Y, sachant que la TVA sur la catégorie Livres est de Z, la facture doit indiquer le montant total suivant:…" La fonctionnalité envisagée doit entraîner de la part du produit des conséquences ou des comportements observables. Ainsi "Améliorer la performance" n'est pas une bonne User Story, il est préférable de préciser: "La page contenant les résultats de recherche doit s'afficher en moins de 2 secondes".
 
 ## Comment construire une user story
+
+Voir Strory Mapping  
+voir SMART  
+Voir Backlog et affinage  
+Voir <https://blog.myagilepartner.fr/index.php/2017/08/02/comment-bien-gerer-ses-user-stories/>
