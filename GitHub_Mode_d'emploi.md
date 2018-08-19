@@ -25,7 +25,7 @@ Cliquer sur signup.
 
 ## Créer un dépot
 
-Un dépot, c'est comme un disque dur mais "distant". C'est à dire qu'il n'est pas chez toi, "en local". 
+Un dépot, c'est comme un disque dur mais "distant". C'est à dire qu'il n'est pas chez toi, "en local".
 
 Cliquer sur le bouton "nem repository" depuis la page d'accueui personalisé de GitHub (On la retrouve ne cliquant sur le chat)
 
@@ -33,7 +33,7 @@ Cliquer sur le bouton "nem repository" depuis la page d'accueui personalisé de 
 
 ### Penser à créer un readme.md au moment de l'initialisation du dépot
 
-En cliquant sur la case à cocher. 
+En cliquant sur la case à cocher.
 
 Ca créé un premier fichier dans notre dépot. Ca permet de beaucoup moins galérer ensuite.
 
@@ -73,7 +73,7 @@ MarkDown est un langage informatique qui va nous servir à mettre en page du tex
 
 En créant notre premier fichier, on en fait un fichier MarkDown en ajoutant .md à la fin. C'est ce qui fait que les ordinateurs vont comprendre qu'on utilise ce langage.
 
-Le mieux est de regarder ces petits conseils sur VSC ou un autre éditeur pour voir à la fois le text RAW (brut) et la mise en page. 
+Le mieux est de regarder ces petits conseils sur VSC ou un autre éditeur pour voir à la fois le text RAW (brut) et la mise en page.
 
 Très simplement, on peut mettre en page :
 
@@ -180,7 +180,7 @@ Dans ces cas là, le propriétaire de la branche va faire une revue pour voir s'
 
 ## Utiliser GitHub pour la gestion de projet
 
-GitHub a une fonction de gestion de projet sous forme de kanban. On trouve cette focntino dans l'onglet "Projects" d'un dépot GitHub. 
+GitHub a une fonction de gestion de projet sous forme de kanban. On trouve cette focntino dans l'onglet "Projects" d'un dépot GitHub.
 
 De là un gros bouton vert permet de créer un projet, de lui donner un nom et de choisir le nombre de colones de notre kanban.
 
