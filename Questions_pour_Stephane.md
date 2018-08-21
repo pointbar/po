@@ -9,3 +9,5 @@ Ce site est-il cool?
 Et plus généralement, quel niveau de visibilité faut-il avoir sur l'ensemble de la release avant d'entamer la rédaction des US ?
 
 - Est-il pertinant d'avoir une discution commune sur la forme verbale que doivent prendre les stories? => pour le moment, on était parti sur le modèle *En tant que [persona], je souhaite [souhait] afin de [but]*. Un conseil en la matière?
+
+- "Le but du PO c'est de maximiser le ratio valeur créée/temps passé pour chaque US". Comment peut-on définir cette valeur ? Savoir qu'une US en apporte plus qu'une autre ?
