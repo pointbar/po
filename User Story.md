@@ -77,4 +77,6 @@ INVEST est une grille de critère, un filtre au travers du quel seul passeront l
 Voir Strory Mapping  
 voir SMART  
 Voir Backlog et affinage  
-Voir <https://blog.myagilepartner.fr/index.php/2017/08/02/comment-bien-gerer-ses-user-stories/>
+Voir <https://blog.myagilepartner.fr/index.php/2017/08/02/comment-bien-gerer-ses-user-stories/>  
+Voir
+<http://referentiel.institut-agile.fr/stories.html>
