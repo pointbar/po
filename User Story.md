@@ -20,6 +20,8 @@ Pouvoir mesurer cette valeur ajoutée est primordiale, en raison notemment de la
 Il est important également de préciser **qui** est concerné par la story. Premièrement parce qu'il n'est pas toujours nécessairement question d'un utilisateur. Ce peut être: "en tant que *développeur*, je veux *tel ou tel chose*, afin *d'accélerer tel ou tel procéssus*". Deuxièmement parce qu'il est de bon ton de ne pas généraliser le concept d'utilisateur. Il y a en effet plusieurs segments d'utilisateurs. On pourrait même aller plus loin et dire que tous les utilisateurs sont différents.  
 En tout cas, préciser le **qui** semble être très important.
 
+Voir: Persona / Personae <https://blog.myagilepartner.fr/index.php/2017/07/24/bien-ecrire-son-persona-dans-un-projet-agile/>
+
 ## INVEST
 
 => sources:
