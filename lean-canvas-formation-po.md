@@ -12,8 +12,8 @@
 - 1, 2 et 3 Lire des ressources et expérimenter des outils.
 - 3 et 4 Faire une formation certifiante de 3 jours.
 - 4 Prendre un consultant ou un coach. 
-- # Faire un MBA de PO
-- # Je fais semblant ou je le fais mal
+- Faire un MBA de PO
+- Je fais semblant ou je le fais mal
 
 ## Segments
 - personnes en recherche active de méthodes de gestion et animation de projet en équipe
