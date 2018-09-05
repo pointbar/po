@@ -1,19 +1,14 @@
 # Lean canvas Formation PO
 
 ## Problèmes
-- 1 Je ne sais pas comment prioriser le travail de mon équipe
-- 2 Nous faions trop de choses en même temps sans les finir. 
-- 3 Je ne suis pas suffisament outillé et expérimenté pour faire correctement un travail de PO.
-- 4 Les projets de mon équipe de dévellopement connaissent des dépassement budgétaires et/ou prennent plus de temps que prévu.
-- 5 Tout le monde parle d'Agile et je ne sais pas comment le faire. 
-- 6 Je ne vois pas comment mettre en place / pratiquer SCRUM au quotidien. 
+- Je ne sais pas comment prioriser le travail de mon équipe
+- ~Les projets de mon équipe prennent plus de temps que prévu.~
+- Je ne sais pas comment mettre en pratique les méthodes d'organisation d'équipe. 
 
 ### Alternatives
-- 1, 2 et 3 Lire des ressources et expérimenter des outils.
-- 3 et 4 Faire une formation certifiante de 3 jours.
-- 4 Prendre un consultant ou un coach. 
-- Faire un MBA de PO
-- Je fais semblant ou je le fais mal
+- Je lis des ressources et j'expérimente des outils.
+- Je prends un consultant ou un coach. 
+- Je recrute ou délègue ce travail à un manager.
 
 ## Segments
 - personnes en recherche active de méthodes de gestion et animation de projet en équipe
