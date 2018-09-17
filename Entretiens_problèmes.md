@@ -58,7 +58,7 @@ Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes
 On est en train de se former à la methode SCRUM et au rôle de PO car on pense que ça peut permettre de diminuer drastiquement ces problèmes.
 On souhaite partager cette methode au travers d'une formation.
 
-Est ce que vous voulez être tenus au courant de l'avancé du dévellopememtn de cette formation ? 
+Est ce que vous voulez être tenus au courant de l'avancé du dévellopement de cette formation ? 
 
 Est ce que vous connaissez des personnes qui ont le même genre de problèmes ? (Contact) 
 
