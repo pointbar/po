@@ -49,9 +49,9 @@ Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes
 
 ## Découvrir le point de vue du client 15 min
 
--Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ? 
--Est ce que tu peux m'epliquer plus en détail comment vou procédez ? 
--Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ? 
+- Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ? 
+- Est ce que tu peux m'epliquer plus en détail comment vou procédez ? 
+- Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ? 
 
 ## Terminer l'entretien 2 min 
 
