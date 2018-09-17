@@ -43,15 +43,15 @@ de les mettre en pratique.
 - Les projets de ton équipe prennent-ils plus de temps ou coûtent-ils plus cher que prévu ?
 - Est ce que tu as des difficultés à mettre en pratique des methodes d'organisations ? 
 
-Demandezici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
+Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
 
 - Est ce que tu as d'autre problèmes lié à l'organisation du travail dans ton équipe ?
 
 ## Découvrir le point de vue du client 15 min
 
-Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ? 
-Est ce que tu peux m'epliquer plus en détail comment vou procédez ? 
-Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ? 
+-Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ? 
+-Est ce que tu peux m'epliquer plus en détail comment vou procédez ? 
+-Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ? 
 
 ## Terminer l'entretien 2 min 
 
