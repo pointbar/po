@@ -21,7 +21,7 @@
 
 ### Early adopters
 
-personnes en contact avec des gens de la Contrée et qui ont des problèmes de gestion et animation de projet en équipe
+- personnes en contact avec des gens de la Contrée et qui ont des problèmes de gestion et animation de projet en équipe
 
 - personnes chez qui Stephane va dormir et qui travaillent en équipe
 - chefs de projets qui travaillent dans des petites agences web et SSII de Montpellier
