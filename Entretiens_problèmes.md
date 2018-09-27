@@ -39,7 +39,7 @@ de les mettre en pratique.
 
 ## Etablir un classement des problèmes 4 min
 
-- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas étés affecturés.
+- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas étées affecturées.
 - Les projets de ton équipe prennent-ils plus de temps ou coûtent-ils plus cher que prévu ?
 - Est ce que tu as des difficultés à mettre en pratique des methodes d'organisations ?
 
