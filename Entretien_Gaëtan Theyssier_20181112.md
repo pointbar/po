@@ -56,7 +56,7 @@ J'utilise énormément les notes dans mon téléphone. Je passe énormément de 
 
 - Est ce que tu peux m'epliquer plus en détail comment vou procédez ?
 
-Nous avons chacun notre secteur (comprendre "spécialité"). Nous avous tous les deux ammené à l'entreprise nos portefeuils clients respectifs. Pour le moment nous continuons de gérer nos clients respectifs indépendemment l'un de l'autre car la boite est récente. Cette situation est voué à changer. À terme, c'est moi qui m'occuperai de la relation client.
+Nous avons chacun notre secteur (comprendre "spécialité"). Nous avous tous les deux ammené à l'entreprise notre portefeuille client. Pour le moment nous continuons de gérer nos clients respectifs indépendemment l'un de l'autre car la boite est récente. Cette situation est vouée à changer. À terme, c'est moi qui m'occuperai de la relation client.
 
 - Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ?
 
