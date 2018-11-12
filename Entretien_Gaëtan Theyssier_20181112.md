@@ -63,6 +63,8 @@ Nous avons chacun notre secteur (comprendre "spécialité"). Nous avous tous les
 même réponse qu'à la première question, sinon aucune.
 Il y a quelques temps, dans un autre contexte de travail, j'avais essayé de mettre en place l'utilisation d'un outil de gestion de projet qui permettait d'avoir un planning partagé et de s'atribuer des tâches, mais l'outil était trop imposant pour notre structure et notre organisation de l'époque. Nous avons finalement tout simplement utilisé le calendrier d'Apple.
 
+Nous vendons également une formation pour les métiers du son. C'est une formation à distance en E-learning. pour le moment notre outil de suivi et de comunication est Facebook. Cela nous pose problème pour deux raisons. Nous n'avons pas la main mise sur tout les outil d'analyse que propose Facebook, et le fait d'utiliser Facebook renvoie une image que nous aimerions changer. Nous souhaitons dévolopper notre propre plateforme afin de professionnaliser au maximum cet aspect de l'entreprise. Cette perspective est encore très floue pour nous, nous auront besoin de faire appel à des professionnels. Cette Phase de développement me fait déjà peur car le temps de travail et l'implication que cela demande aura un impact élevé sur mon activité.
+
 ## Conclusion
 
 - Est ce que vous voulez être tenus au courant de l'avancé du dévellopement de cette formation ?
