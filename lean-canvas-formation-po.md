@@ -4,7 +4,7 @@
 
 - Le produit développé ne répond pas toujours aux attentes des utilisat·eur·rice·s
 - Les projets de mon équipe prennent plus de temps ou plus d'argent que prévu.
-- Je ne sais pas comment mettre en pratique les méthodes d'organisation d'équipe.
+- C'est difficile de mettre pratique de nouvelles méthodes d'organisation d'équipe.
 
 ### Alternatives
 
@@ -16,12 +16,13 @@
 
 - personnes ayant des besoins en développement informatique
 - personnes qui souhaitent devenir PO
-- chefs de projets web/logiciel et souhaitent aller vers de l'agile
+- chefs de projets web/logiciel qui souhaitent aller vers de l'agile
 - ~personnes qui ont suivi une formation certifiante PO de 3 jours~
 
 ### Early adopters
 
 - chefs de projets qui travaillent dans des petites agences web et SSII de Montpellier
-  - Kalyop, Wonderful, 
+  - Kalyop, Wonderful, Lexik
 - développeurs : Gilles, Epitec (profs ou élèves)
-- Antoine, Lou et Charlie, Apiculture, Luigi, Lexik
+- Antoine, Lou et Charlie, Happyculture, Luigi, Audrey
+- demander à Eric pour les personnes du cowork
