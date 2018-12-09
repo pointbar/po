@@ -14,7 +14,7 @@
 
 ## Segments
 
-- personnes travaillant dans la  gestion et l'animation de projet en équipe
+- personnes ayant des besoins en développement informatique
 - personnes qui souhaitent devenir PO
 - chefs de projets web/logiciel et souhaitent aller vers de l'agile
 - ~personnes qui ont suivi une formation certifiante PO de 3 jours~
