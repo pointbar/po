@@ -8,9 +8,9 @@
 
 ### Alternatives
 
-- Je lis des ressources et j'expérimente des outils.
-- Je prends un consultant ou un coach.
-- Je recrute ou délègue ce travail à un manager.
+- Je dépense plus d'argent pour corriger ou vendre
+- Faire des heures sup
+- Je reste sur mes "vieilles" méthodes
 
 ## Segments
 
