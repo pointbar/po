@@ -2,46 +2,45 @@
 
 ### Le produit que nous pensons développer et pourquoi.
 
-Nous cherchons à développer une formation sur la gestion agile de projets.
-Par agile, nous entendons des méthodes particulièrement adaptées au contexte d'innovation en équipe.
+Nous cherchons à développer une formation au rôle de Product Owner et de manière plus générale aux outils de le lean et de l'agilité.
 
 ### Le but de l'entretien.
 
-Nous travaillons dans des contextes très variables et nous avons rencontré un certain nombre de difficultés,
-dans la priorisation des tâches, le travail à plusieurs, le planning, la gestion des ressources et la relation clients;
+Nous croyons que dans le domaline du développement logiciel, les problèmes récurents sont liés à la satisfaction des utilistateurs, la planification ainsi qu'à la gestion des équipes.
 
-Avant d'aller plus loin, on aimerait savoir si vous êtes confrontés aux mêmes problématiques que nous. 
+Avant d'aller plus loin, on aimerait savoir si vous êtes confrontés aux problèmes que nous avons imaginé.
 
-Je tiens à souligner que nous ne disposons pas encore d'un produit fini et que nous souhaitons apprendre de vous et non
-vous vendre quelque-chose.
+Je tiens à souligner que nous ne disposons pas encore d'un produit fini et que nous souhaitons apprendre de vous et non vous vendre quelque-chose.
 
 ## Recueillir des données personnelles - 2 min
 
 (tester le segment)
 
 - Quel est ton métier actuel ?
-- Dans quel type de structure tu travailles ? (taille de l'équipe, type d'entreprise, secteur )
+- Dans quel type de structure tu travailles ? (taille de l'équipe, type d'entreprise, secteur)
 - Est-ce que tu travailles en équipe ? combien de personnes ?
 - En une phrase, quel est ton rôle dans l'équipe ?
 - Est-ce que tu connais l'agilité ? Scrum ?
-- As-tu un profil technique (type ingénieur, développeur...) ?
 
 ## Raconter une histoire 2 min
 
-je vais maintenant vous parler des problèmes auquels nous nous attaquons.
-Mon equipe et moi avons souvent été confontrés à une masse de travail face à laquelle il est dificile d'indentifier les
-choses les plus importantes à faire. Il nous est déjà arrivé de travailler énormément et de s'aprcevoir que des choses très
-importantes n'avaient pas étées faites.
-Par ailleurs nous avons souvent eu du mal à respecter les délais fixés pour le projet. Nous nous sommes souvent
-retrouvé à effectuer des heures suplémentaires et à dépenser plus d'argent que prévu.
-Cette situation m'a poussé à rechercher des méthodes ou des solutions dans des livres ou sur internet, mais il s'avère dificile
-de les mettre en pratique.
+Au stade où nous en sommes, nous pensons que dans le demaine du développement logiciel, les produits dévelopés ne réponds pas toujours aux attentes des utilisateurs.
+Nous avons eu l'ocasion de constater que des projets prenant plus de temps et coûtant plus d'argent que prévu pouvaient:
+
+- souffrir de l'absence de fonctionnalités essentiels
+- manquer de confort d'utilisation
+- Il ya a souvent de l'inadéquation entre les process de l'utilisateur et le fonctionnement du logiciel
+- ...
+
+En essayant de résoudre des problèmes comme ceux-ci, nous nous sommes rendu compte qu'il était dificile de mettre en application les methodes d'organisation d'équipe et de développement de produit.
 
 ## Etablir un classement des problèmes 4 min
 
-- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas étées affecturées.
-- Les projets de ton équipe prennent-ils plus de temps ou coûtent-ils plus cher que prévu ?
-- Est ce que tu as des difficultés à mettre en pratique des methodes d'organisations ?
+- T'es-t-il souvent arrivé de travailler sur des projets ne trouvant pas d'utilisateurs ou laissant ses utilisateurs insatisfaits.
+
+- As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés? 
+
+- Rencontres-tu des difficultés à mettre en pratique les méthodes de développement de produit et d'organisation du travail en équipe?
 
 Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
 

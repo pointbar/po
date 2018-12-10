@@ -22,21 +22,17 @@ Réponse
 
 Réponse
 
-- As-tu un profil technique (type ingénieur, développeur...) ?
-
-Réponse
-
 ## Classement des problèmes
 
-- Est ce que tu te rends compte que tes tâches prioritaires n'ont pas étées affecturées.
+- T'es-t-il souvent arrivé de travailler sur des projets ne trouvant pas d'utilisateurs ou laissant ses utilisateurs insatisfaits.
 
 Réponse
 
-- Les projets de ton équipe prennent-ils plus de temps ou coûtent-ils plus cher que prévu ?
+- As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés?
 
 Réponse
 
-- Est ce que tu as des difficultés à mettre en pratique des methodes d'organisations ?
+- As-tu déjà essayé de mettre en pratique des méthodes de développement de produit et d'organisation du travail en équipe? Si oui, Rencontres-tu des difficultés à le faire.
 
 Réponse
 
@@ -44,13 +40,17 @@ Réponse
 
 Réponse (ex: 3/1/2)
 
-- Est ce que tu as d'autre problèmes lié à l'organisation du travail dans ton équipe ?
+- Ton équipe rencontre-t-elle des problèmes qui te paraissent plus importants que ceux-ci?
 
 Réponse
 
 ## Point de vue du client
 
-- Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ?
+- Comment procédez-vous actuellement pour définir les attentes de vos clients?
+
+Réponse
+
+- Comment vérifiez-vous qu'il a effectivement adéquation entre ces attentes et le produit dévellopé?
 
 Réponse
 
@@ -59,6 +59,10 @@ Réponse
 Réponse
 
 - Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ?
+
+Réponse
+
+- Si oui, comment as-tu procédé?
 
 Réponse
 
