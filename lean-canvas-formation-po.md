@@ -22,7 +22,7 @@
 ### Early adopters
 
 - chefs de projets qui travaillent dans des petites agences web et SSII de Montpellier
-  - Kalyop, Wonderful, Lexik
+  - Kalyop, Wonderful, Lexik, We are heroes
 - développeurs : Gilles, Epitec (profs ou élèves)
 - Antoine, Lou et Charlie, Happyculture, Luigi, Audrey
-- demander à Eric pour les personnes du cowork
+- demander à Erick pour les personnes du cowork
