@@ -38,19 +38,21 @@ En essayant de résoudre des problèmes comme ceux-ci, nous nous sommes rendu co
 
 - T'es-t-il souvent arrivé de travailler sur des projets ne trouvant pas d'utilisateurs ou laissant ses utilisateurs insatisfaits.
 
-- As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés? 
+- As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés?
 
-- Rencontres-tu des difficultés à mettre en pratique les méthodes de développement de produit et d'organisation du travail en équipe?
+- As-tu déjà essayé de mettre en pratique des méthodes de développement de produit et d'organisation du travail en équipe? Si oui, Rencontres-tu des difficultés à le faire.
 
 Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
 
-- Est ce que tu as d'autre problèmes lié à l'organisation du travail dans ton équipe ?
+- Ton équipe rencontre-t-elle des problèmes qui te paraissent plus importants que ceux-ci?
 
 ## Découvrir le point de vue du client 15 min
 
-- Comment vous vous organisez aujourd'hui pour prioriser / planifier / améliorer vos méthodes ?
+- Comment procédez-vous actuellement pour définir les attentes de vos clients?
+- Comment vérifiez-vous qu'il a effectivement adéquation entre ces attentes et le produit dévellopé?
 - Est ce que tu peux m'epliquer plus en détail comment vou procédez ?
 - Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ?
+- Si oui, comment as-tu procédé?
 
 ## Terminer l'entretien 2 min 
 
@@ -62,12 +64,3 @@ Est ce que vous voulez être tenus au courant de l'avancé du dévellopement de 
 Est ce que vous connaissez des personnes qui ont le même genre de problèmes ? (Contact)
 
 ## Consigner les résultats
-
-
-
-
-
-
-
-
-
