@@ -36,11 +36,12 @@ En essayant de résoudre des problèmes comme ceux-ci, nous nous sommes rendu co
 
 ## Etablir un classement des problèmes 4 min
 
-- T'es-t-il souvent arrivé de travailler sur des projets ne trouvant pas d'utilisateurs ou laissant ses utilisateurs insatisfaits.
+- T'es-t-il souvent arrivé de travailler sur des projets ne trouvant pas d'utilisateurs ou laissant ses utilisateurs insatisfaits ?
 
 - As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés?
+*Alt : Est-ce que le non-respect du planning de développement prévu crée des tensions ?*
 
-- As-tu déjà essayé de mettre en pratique des méthodes de développement de produit et d'organisation du travail en équipe? Si oui, Rencontres-tu des difficultés à le faire.
+- Est-ce que tu trouves que la culture de ton organisation ne te permet pas de mettre en place de nouvelles methodes ?
 
 Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
 
