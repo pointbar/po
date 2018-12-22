@@ -4,7 +4,7 @@
 
 - Quel est ton métier actuel ?
 
-Intégrateur web. 
+Intégrateur web.
 
 - Dans quel type de structure tu travailles ? (taille de l'équipe, type d'entreprise, secteur )
 
@@ -12,7 +12,7 @@ Je suis indépendant.
 
 - Est-ce que tu travailles en équipe ? combien de personnes ?
 
-Sur des petits projets, on est deux avec un designer. Dans de plus gros projets, il y a des "rsponsable" d'équipes. Un terme "moche" c'est chef de projets technique" ou PO.
+Sur des petits projets, on est deux avec un designer. Dans de plus gros projets, il y a un "rsponsable" d'équipe (Un terme "moche" c'est chef de projets techniques") ou un PO.
 
 - En une phrase, quel est ton rôle dans l'équipe ?
 
@@ -20,7 +20,7 @@ Je suis garant de la réalisation du code front; (HTML / CSS). D'un projet à l'
 
 - Est-ce que tu connais l'agilité ? Scrum ?
 
-oui, sans avoir trop creusé. 
+oui, sans avoir trop creusé.
 
 ## Classement des problèmes
 
@@ -30,19 +30,20 @@ Je ne sais pas. Je ne participe pas suffisement longtemps au projet pour avoir c
 
 - As-tu souvent participé à des projets ne respectant pas le planning et les budgets fixés?
 
-ouais! Quasiment tout le temps. Sur les petits projets, c'est tout le temps! Pour les plus gros projets, lorsqu'il du scrum et des sprints, il n'y a plus réellement la notion de budget. 
+ouais! Quasiment tout le temps. Sur les petits projets, c'est tout le temps! Pour les plus gros projets, lorsqu'il du scrum et des sprints, il n'y a plus réellement la notion de budget.
 
 - As-tu déjà essayé de mettre en pratique des méthodes de développement de produit et d'organisation du travail en équipe? Si oui, Rencontres-tu des difficultés à le faire.
 
-Ça a toujours été quelqu'un d'autre qui le mettait en place. Si la petite "graine" n'a pas été plentée, lorsque j'arrive en tant que technicien, je n'ai plus réelement l'oportunité de proposer ce type de solutionsq.
+Ça a toujours été quelqu'un d'autre qui le mettait en place. Si la "petite graine" n'a pas été plentée, lorsque j'arrive en tant que technicien, je n'ai plus réelement l'oportunité de proposer ce type de solutions.
 
 ### Classement
 
-Réponse 2 3 1. 
+Réponse 2 3 1
 
 - Ton équipe rencontre-t-elle des problèmes qui te paraissent plus importants que ceux-ci?
 
 Les rétrospectives me paraissent importantes pour s'améliorer sur la façon de bosser. Cette pratique n'est pas du tout répendu.
+De manière générale, le problème est avant tout culturel.
 
 ## Point de vue du client
 
@@ -56,7 +57,7 @@ Souvent, je ne suis pas même pas au courent de la finalité.
 
 - Est ce que tu peux m'epliquer plus en détail comment vou procédez ?
 
-La la majorité des cas, je ne suis pas en contact avec les utilisateurs, mais plutot avec ceux qui eux sont en contact avec les utilisateurs. Je réalise un ensemble de tâches techniques que je fais valider auprès de ces personnes là. Les attentes sont assez clairement définies à l'avances: il faut que ça marche.
+Dans la majorité des cas, je ne suis pas en contact avec les utilisateurs, mais plutot avec ceux qui eux, sont en contact avec les utilisateurs. Je réalise un ensemble de tâches techniques que je fais valider auprès de ces personnes là. Les attentes sont assez clairement définies à l'avances: il faut que ça marche.
 
 - Quelles méthodes tu utilise pour prioriser / planifier / améliorer vos méthodes ?
 
@@ -77,3 +78,5 @@ Echanger d'avantage avec les parties prenantes est plus stimulant! On se sent pl
 oui
 
 - Est ce que vous connaissez des personnes qui ont le même genre de problèmes ? (Contact)
+
+Thomas éventuellement.
